@@ -4,6 +4,7 @@
   "private": true,
   "description": "Cyanotype print shop site with Stripe embedded checkout.",
   "scripts": {
+    "scan-images": "node scripts/scan-images.js",
     "add-products": "node scripts/bulk-add-products.js"
   },
   "dependencies": {
