@@ -1,0 +1,403 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Checkout Mockup &mdash; Annie's Cyanotypes</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500&family=Jost:wght@400;500&display=swap');
+
+    :root {
+      --bg: #ffffff;
+      --ink: #1a1a1a;
+      --muted: #6b6b6b;
+      --line: #e4e0da;
+      --brown: #6b5a48;
+      --serif: 'Cormorant Garamond', Georgia, serif;
+      --sans: 'Jost', Helvetica, Arial, sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: var(--sans);
+      color: var(--ink);
+      background: #f6f6f6;
+    }
+
+    .mockup-banner {
+      background: #fff3cd;
+      color: #6b5a00;
+      text-align: center;
+      font-size: 13px;
+      padding: 10px;
+      border-bottom: 1px solid #e8d488;
+    }
+
+    .checkout-shell {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      min-height: 70vh;
+    }
+
+    /* Left: order summary (this is what Stripe calls the "order summary" pane) */
+    .summary-pane {
+      background: #f6f6f6;
+      padding: 64px 56px;
+    }
+
+    .summary-inner {
+      max-width: 420px;
+      margin-left: auto;
+    }
+
+    .merchant {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 48px;
+    }
+
+    .merchant img {
+      height: 32px;
+      width: auto;
+      display: block;
+    }
+
+    .merchant-name {
+      font-family: var(--serif);
+      font-size: 20px;
+      color: var(--brown);
+    }
+
+    .line-item {
+      display: flex;
+      gap: 16px;
+      align-items: center;
+      margin-bottom: 32px;
+    }
+
+    .line-item-image {
+      width: 64px;
+      height: 64px;
+      border-radius: 8px;
+      background-size: cover;
+      background-position: center;
+      flex: 0 0 64px;
+      position: relative;
+    }
+
+    .line-item-qty {
+      position: absolute;
+      top: -8px;
+      right: -8px;
+      background: #6b6b6b;
+      color: #fff;
+      font-size: 11px;
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .line-item-title {
+      font-size: 15px;
+      margin: 0 0 2px;
+    }
+
+    .line-item-sub {
+      font-size: 13px;
+      color: var(--muted);
+      margin: 0;
+    }
+
+    .line-item-price {
+      margin-left: auto;
+      font-size: 15px;
+    }
+
+    .totals {
+      border-top: 1px solid var(--line);
+      padding-top: 20px;
+    }
+
+    .totals-row {
+      display: flex;
+      justify-content: space-between;
+      font-size: 14px;
+      color: var(--muted);
+      margin-bottom: 10px;
+    }
+
+    .totals-row.grand {
+      color: var(--ink);
+      font-size: 16px;
+      font-weight: 500;
+      border-top: 1px solid var(--line);
+      padding-top: 14px;
+      margin-top: 10px;
+    }
+
+    /* Right: payment form */
+    .form-pane {
+      background: #fff;
+      padding: 64px 56px;
+    }
+
+    .form-inner {
+      max-width: 420px;
+    }
+
+    .form-section {
+      margin-bottom: 28px;
+    }
+
+    .form-section h3 {
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--muted);
+      margin: 0 0 12px;
+      font-weight: 500;
+    }
+
+    .field {
+      margin-bottom: 12px;
+    }
+
+    .field label {
+      display: block;
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 6px;
+    }
+
+    .field input,
+    .field select {
+      width: 100%;
+      padding: 12px 14px;
+      border: 1px solid #d8d8d8;
+      border-radius: 6px;
+      font-family: var(--sans);
+      font-size: 15px;
+      color: var(--ink);
+      background: #fff;
+    }
+
+    .field input:focus,
+    .field select:focus {
+      outline: none;
+      border-color: var(--brown);
+      box-shadow: 0 0 0 1px var(--brown);
+    }
+
+    .field-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+
+    .card-group {
+      border: 1px solid #d8d8d8;
+      border-radius: 6px;
+      overflow: hidden;
+    }
+
+    .card-group .field input {
+      border: none;
+      border-radius: 0;
+    }
+
+    .card-group .field {
+      margin-bottom: 0;
+      border-bottom: 1px solid #eee;
+    }
+
+    .card-group .field:last-child {
+      border-bottom: none;
+    }
+
+    .card-group .field-row {
+      gap: 0;
+    }
+
+    .card-group .field-row .field {
+      border-right: 1px solid #eee;
+    }
+
+    .card-group .field-row .field:last-child {
+      border-right: none;
+    }
+
+    .pay-btn {
+      width: 100%;
+      padding: 16px;
+      background: var(--brown);
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      font-family: var(--sans);
+      font-size: 16px;
+      font-weight: 500;
+      cursor: pointer;
+      margin-top: 8px;
+    }
+
+    .pay-btn:hover {
+      opacity: 0.92;
+    }
+
+    .stripe-footer {
+      margin-top: 20px;
+      text-align: center;
+      font-size: 12px;
+      color: #b0b0b0;
+    }
+
+    .stripe-footer a {
+      color: #b0b0b0;
+    }
+
+    @media (max-width: 860px) {
+      .checkout-shell { grid-template-columns: 1fr; }
+      .summary-pane, .form-pane { padding: 40px 24px; }
+      .summary-inner { margin: 0; max-width: none; }
+      .form-inner { max-width: none; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="mockup-banner">
+    Static mockup only &mdash; not connected to Stripe. For reviewing colors/fonts/spacing before wiring up the real Embedded Checkout.
+  </div>
+
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a href="index.html" class="site-logo">
+        <img src="images/logo.png" alt="Annie's Cyanotypes" class="site-logo-image" />
+      </a>
+      <nav class="site-nav">
+        <a href="category.html">Shop</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+      <button class="nav-toggle" aria-label="Menu">Menu</button>
+    </div>
+  </header>
+
+  <div class="checkout-shell">
+    <div class="summary-pane">
+      <div class="summary-inner">
+        <div class="merchant">
+          <img src="images/logo.png" alt="" />
+        </div>
+
+        <div class="line-item">
+          <div class="line-item-image" style="background-image:url('images/botanicals.jpg')">
+            <span class="line-item-qty">1</span>
+          </div>
+          <div>
+            <p class="line-item-title">Fern Study No. 1</p>
+            <p class="line-item-sub">Cyanotype print</p>
+          </div>
+          <div class="line-item-price">$65.00</div>
+        </div>
+
+        <div class="totals">
+          <div class="totals-row">
+            <span>Subtotal</span>
+            <span>$65.00</span>
+          </div>
+          <div class="totals-row">
+            <span>Shipping</span>
+            <span>$8.00</span>
+          </div>
+          <div class="totals-row">
+            <span>Tax</span>
+            <span>$0.00</span>
+          </div>
+          <div class="totals-row grand">
+            <span>Total due</span>
+            <span>$73.00</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="form-pane">
+      <div class="form-inner">
+        <div class="form-section">
+          <h3>Contact information</h3>
+          <div class="field">
+            <label>Email</label>
+            <input type="email" placeholder="you@example.com" />
+          </div>
+        </div>
+
+        <div class="form-section">
+          <h3>Shipping information</h3>
+          <div class="field">
+            <label>Full name</label>
+            <input type="text" placeholder="Jane Doe" />
+          </div>
+          <div class="field">
+            <label>Address</label>
+            <input type="text" placeholder="123 Main Street" />
+          </div>
+          <div class="field-row">
+            <div class="field">
+              <label>City</label>
+              <input type="text" placeholder="Portland" />
+            </div>
+            <div class="field">
+              <label>Postal code</label>
+              <input type="text" placeholder="97201" />
+            </div>
+          </div>
+          <div class="field">
+            <label>Country</label>
+            <select>
+              <option>United States</option>
+              <option>Canada</option>
+              <option>United Kingdom</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="form-section">
+          <h3>Payment method</h3>
+          <div class="card-group">
+            <div class="field">
+              <label>Card number</label>
+              <input type="text" placeholder="1234 1234 1234 1234" />
+            </div>
+            <div class="field-row">
+              <div class="field">
+                <label>Expiry</label>
+                <input type="text" placeholder="MM / YY" />
+              </div>
+              <div class="field">
+                <label>CVC</label>
+                <input type="text" placeholder="CVC" />
+              </div>
+            </div>
+            <div class="field">
+              <label>Name on card</label>
+              <input type="text" placeholder="Jane Doe" />
+            </div>
+          </div>
+        </div>
+
+        <button class="pay-btn" type="button">Pay $73.00</button>
+
+        <p class="stripe-footer">Powered by <strong>Stripe</strong> &middot; <a href="#">Terms</a> &middot; <a href="#">Privacy</a></p>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

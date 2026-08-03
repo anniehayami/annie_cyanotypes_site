@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Shop &mdash; Annie Cyanotypes</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a href="index.html" class="site-logo">
+        <img src="images/logo.png" alt="Annie's Cyanotypes" class="site-logo-image" />
+      </a>
+      <nav class="site-nav" data-nav>
+        <a href="category.html">Shop</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+      <button class="nav-toggle" data-nav-toggle aria-label="Menu">Menu</button>
+    </div>
+  </header>
+
+  <div class="page-title">
+    <h1>Prints</h1>
+  </div>
+
+  <nav class="shop-filters" data-shop-filters></nav>
+
+  <div class="container">
+    <div class="product-grid" data-product-grid></div>
+    <p class="empty-state" data-empty-state style="display:none;">
+      No prints in this category yet &mdash; check back soon.
+    </p>
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-social">
+      <a href="https://instagram.com/" aria-label="Instagram">Instagram</a>
+      <a href="mailto:hello@example.com" aria-label="Email">Email</a>
+    </div>
+    <p class="footer-copy">&copy; 2026 Annie. All rights reserved.</p>
+  </footer>
+
+  <div class="checkout-modal" id="checkout-modal">
+    <div class="checkout-modal-inner">
+      <button class="checkout-modal-close" data-checkout-close aria-label="Close">&times;</button>
+      <div id="checkout-container"></div>
+    </div>
+  </div>
+
+  <script src="https://js.stripe.com/v3/"></script>
+  <script src="js/config.js"></script>
+  <script src="js/checkout.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "name": "annie-cyanotypes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cyanotype print shop site with Stripe embedded checkout.",
+  "scripts": {
+    "add-products": "node scripts/bulk-add-products.js"
+  },
+  "dependencies": {
+    "stripe": "^17.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

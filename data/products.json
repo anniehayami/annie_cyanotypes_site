@@ -1,0 +1,99 @@
+{
+  "hero": {
+    "image": "images/hero.jpg",
+    "title": "Annie's Cyanotypes",
+    "subtitle": "One-of-a-kind sun prints, made by hand"
+  },
+  "categories": [
+    { "slug": "botanicals", "name": "Botanicals", "image": "images/botanicals.jpg" },
+    { "slug": "animals", "name": "Animals", "image": "images/animals.jpg" },
+    { "slug": "people", "name": "People", "image": "images/people.jpg" },
+    { "slug": "places", "name": "Places", "image": "images/places.jpg" }
+  ],
+  "products": [
+    {
+      "id": "bot-001",
+      "category": "botanicals",
+      "title": "Fern Study No. 1",
+      "price": 65,
+      "image": "images/botanicals.jpg",
+      "description": [
+        "Cyanotype on Arches Platine cotton rag paper.",
+        "Replace this with real sizing, edition size, and paper details.",
+        "Each print is slightly different due to brushstrokes and other variations in the handmade process."
+      ],
+      "stripePriceId": null,
+      "active": false
+    },
+    {
+      "id": "bot-002",
+      "category": "botanicals",
+      "title": "Wild Poppy",
+      "price": 70,
+      "image": "images/hero.jpg",
+      "description": [
+        "Cyanotype on Arches Platine cotton rag paper.",
+        "Replace this with real sizing, edition size, and paper details.",
+        "Each print is slightly different due to brushstrokes and other variations in the handmade process."
+      ],
+      "stripePriceId": null,
+      "active": false
+    },
+    {
+      "id": "animals-001",
+      "category": "animals",
+      "title": "Jellyfish Study",
+      "price": 80,
+      "image": "images/animals.jpg",
+      "description": [
+        "Cyanotype on Arches Platine cotton rag paper.",
+        "Replace this with real sizing, edition size, and paper details.",
+        "Each print is slightly different due to brushstrokes and other variations in the handmade process."
+      ],
+      "stripePriceId": null,
+      "active": false
+    },
+    {
+      "id": "people-001",
+      "category": "people",
+      "title": "Reaching Hand",
+      "price": 90,
+      "image": "images/people.jpg",
+      "description": [
+        "Cyanotype on Arches Platine cotton rag paper.",
+        "Replace this with real sizing, edition size, and paper details.",
+        "Each print is slightly different due to brushstrokes and other variations in the handmade process."
+      ],
+      "stripePriceId": null,
+      "active": false
+    },
+    {
+      "id": "places-001",
+      "category": "places",
+      "title": "Tide Line",
+      "price": 75,
+      "image": "images/places.jpg",
+      "description": [
+        "Cyanotype on Arches Platine cotton rag paper.",
+        "Replace this with real sizing, edition size, and paper details.",
+        "Each print is slightly different due to brushstrokes and other variations in the handmade process."
+      ],
+      "stripePriceId": null,
+      "active": false
+    },
+    {
+      "id": "places-002",
+      "category": "places",
+      "title": "Fire Escape",
+      "price": 85,
+      "image": "images/artist.jpg",
+      "description": [
+        "Cyanotype on Arches Platine cotton rag paper.",
+        "Replace this with real sizing, edition size, and paper details.",
+        "Each print is slightly different due to brushstrokes and other variations in the handmade process."
+      ],
+      "stripePriceId": null,
+      "active": false
+    }
+  ]
+}
