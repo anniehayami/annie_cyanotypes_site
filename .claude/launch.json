@@ -3,9 +3,7 @@
   "configurations": [
     {
       "name": "annie-site",
-      "runtimeExecutable": "python",
-      "runtimeArgs": ["-m", "http.server", "8090"],
-      "port": 8090
+      "url": "http://localhost:8090"
     }
   ]
 }
