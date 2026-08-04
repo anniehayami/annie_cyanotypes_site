@@ -16,14 +16,24 @@
       "image": "images/animals.jpg"
     },
     {
-      "slug": "people",
-      "name": "People",
-      "image": "images/people.jpg"
+      "slug": "things",
+      "name": "Things",
+      "image": "images/things.jpg"
     },
     {
       "slug": "places",
       "name": "Places",
       "image": "images/places.jpg"
+    },
+    {
+      "slug": "people",
+      "name": "People",
+      "image": "images/people.jpg"
+    },
+    {
+      "slug": "mixed-media",
+      "name": "Mixed Media",
+      "image": "images/mixed-media.jpg"
     }
   ],
   "products": [
