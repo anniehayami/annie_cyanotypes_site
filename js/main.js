@@ -59,15 +59,17 @@ function renderProductGrid(catalog) {
   }
 
   grid.innerHTML = products
-    .map(
-      (p) => `
+    .map((p) => {
+      const fromPrice = Math.min(...p.sizes.map((s) => s.price));
+      const imagePosition = p.imagePosition || 'center';
+      return `
         <a class="product-card" href="product.html?id=${p.id}">
-          <div class="product-card-image" style="background-image:url('${p.image}')"></div>
+          <div class="product-card-image" style="background-image:url('${p.image}'); background-position: ${imagePosition};"></div>
           <h3>${p.title}</h3>
-          <p class="price">$${p.price.toFixed(2)}</p>
+          <p class="price">From $${fromPrice.toFixed(2)}</p>
         </a>
-      `
-    )
+      `;
+    })
     .join('');
 }
 
@@ -106,24 +108,52 @@ function renderProductDetail(catalog) {
 
   document.title = `${product.title} — Annie's Cyanotypes`;
 
-  const canBuy = Boolean(product.active && product.stripePriceId);
+  const imagePosition = product.imagePosition || 'center';
 
   root.innerHTML = `
     <div class="product-detail-media">
-      <div class="product-detail-image" style="background-image:url('${product.image}')"></div>
+      <div class="product-detail-image" style="background-image:url('${product.image}'); background-position: ${imagePosition};"></div>
     </div>
     <div class="product-detail-info">
       <h1>${product.title}</h1>
       ${product.description.map((line) => `<p>${line}</p>`).join('')}
-      <p class="product-detail-price">$${product.price.toFixed(2)}</p>
-      <button class="btn" data-price-id="${product.stripePriceId || ''}">Add to Cart</button>
+      <div class="size-selector" data-size-selector>
+        ${product.sizes
+          .map(
+            (s, i) => `
+          <label class="size-option">
+            <input type="radio" name="size" value="${i}" ${i === 0 ? 'checked' : ''} />
+            <span>
+              <span class="size-option-name">${s.name}</span>
+              <span class="size-option-dim">${s.dimensions}</span>
+              <span class="size-option-price">$${s.price.toFixed(2)}</span>
+            </span>
+          </label>
+        `
+          )
+          .join('')}
+      </div>
+      <button class="btn" data-price-id="">Add to Cart</button>
     </div>
   `;
 
   const buyBtn = root.querySelector('button[data-price-id]');
-  if (buyBtn && canBuy) {
-    buyBtn.addEventListener('click', () => openCheckout(buyBtn.dataset.priceId));
+  const sizeRadios = Array.from(root.querySelectorAll('input[name="size"]'));
+
+  function updateSelectedSize() {
+    const selected = product.sizes[sizeRadios.findIndex((r) => r.checked)];
+    const canBuy = Boolean(product.active && selected.stripePriceId);
+    buyBtn.dataset.priceId = selected.stripePriceId || '';
+    buyBtn.disabled = !canBuy;
+    buyBtn.textContent = canBuy ? 'Add to Cart' : 'Coming Soon';
   }
+
+  sizeRadios.forEach((r) => r.addEventListener('change', updateSelectedSize));
+  updateSelectedSize();
+
+  buyBtn.addEventListener('click', () => {
+    if (!buyBtn.disabled) openCheckout(buyBtn.dataset.priceId);
+  });
 }
 
 document.addEventListener('DOMContentLoaded', async () => {

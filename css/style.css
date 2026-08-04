@@ -397,11 +397,52 @@ a { color: inherit; text-decoration: none; }
   max-width: 520px;
 }
 
-.product-detail-price {
+.size-selector {
+  display: flex;
+  gap: 12px;
+  margin: 28px 0 32px;
+}
+
+.size-option input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.size-option span {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  min-width: 92px;
+  padding: 14px 18px;
+  border: 1px solid var(--line);
+  cursor: pointer;
+  transition: border-color 0.2s ease;
+}
+
+.size-option input:checked + span {
+  border: 1px solid var(--ink);
+}
+
+.size-option-name {
   font-family: var(--sans);
-  color: var(--ink) !important;
-  font-size: 20px;
-  margin: 32px 0 20px !important;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink);
+}
+
+.size-option-dim {
+  font-family: var(--sans);
+  font-size: 11px;
+  color: var(--muted);
+}
+
+.size-option-price {
+  font-family: var(--sans);
+  font-size: 14px;
+  color: var(--ink);
 }
 
 .product-detail-info .btn {
@@ -411,6 +452,12 @@ a { color: inherit; text-decoration: none; }
 
 .product-detail-info .btn:hover {
   background: #333;
+}
+
+.product-detail-info .btn[disabled] {
+  background: var(--line);
+  color: var(--muted);
+  cursor: not-allowed;
 }
 
 /* Contact form */

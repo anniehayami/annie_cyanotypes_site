@@ -5,100 +5,747 @@
     "subtitle": "One-of-a-kind sun prints, made by hand"
   },
   "categories": [
-    { "slug": "botanicals", "name": "Botanicals", "image": "images/botanicals.jpg" },
-    { "slug": "animals", "name": "Animals", "image": "images/animals.jpg" },
-    { "slug": "people", "name": "People", "image": "images/people.jpg" },
-    { "slug": "places", "name": "Places", "image": "images/places.jpg" }
+    {
+      "slug": "botanicals",
+      "name": "Botanicals",
+      "image": "images/botanicals.jpg"
+    },
+    {
+      "slug": "animals",
+      "name": "Animals",
+      "image": "images/animals.jpg"
+    },
+    {
+      "slug": "people",
+      "name": "People",
+      "image": "images/people.jpg"
+    },
+    {
+      "slug": "places",
+      "name": "Places",
+      "image": "images/places.jpg"
+    }
   ],
   "products": [
     {
-      "id": "demo-raven",
+      "id": "toward-the-surface",
+      "category": "animals",
+      "title": "Toward the Surface",
+      "image": "images/products/animals/Toward the Surface.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "encounter",
+      "category": "animals",
+      "title": "Encounter",
+      "image": "images/products/animals/Encounter.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "climb",
+      "category": "animals",
+      "title": "Climb",
+      "image": "images/products/animals/Climb.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "the-calm",
+      "category": "animals",
+      "title": "The Calm",
+      "image": "images/products/animals/The Calm.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "tide-pool",
+      "category": "animals",
+      "title": "Tide Pool",
+      "image": "images/products/animals/Tide Pool.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "scales-and-stones",
+      "category": "animals",
+      "title": "Scales and Stones",
+      "image": "images/products/animals/Scales and Stones.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "sentinel",
+      "category": "animals",
+      "title": "Sentinel",
+      "image": "images/products/animals/Sentinel.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "preserved",
+      "category": "animals",
+      "title": "Preserved",
+      "image": "images/products/animals/Preserved.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "drift",
+      "category": "animals",
+      "title": "Drift",
+      "image": "images/products/animals/Drift.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "shedding",
+      "category": "animals",
+      "title": "Shedding",
+      "image": "images/products/animals/Shedding.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "morning-watch",
+      "category": "animals",
+      "title": "Morning Watch",
+      "image": "images/products/animals/Morning Watch.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "becoming",
+      "category": "animals",
+      "title": "Becoming",
+      "image": "images/products/animals/Becoming.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "raven",
       "category": "animals",
       "title": "Raven",
-      "price": 85,
       "image": "images/products/animals/Raven.jpg",
-      "description": ["Placeholder description — replace with real print details."],
-      "stripePriceId": null,
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
       "active": false
     },
     {
-      "id": "demo-migration",
+      "id": "suspension",
+      "category": "animals",
+      "title": "Suspension",
+      "image": "images/products/animals/Suspension.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "migration",
       "category": "animals",
       "title": "Migration",
-      "price": 85,
       "image": "images/products/animals/Migration.jpg",
-      "description": ["Placeholder description — replace with real print details."],
-      "stripePriceId": null,
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false,
+      "imagePosition": "top"
+    },
+    {
+      "id": "tidal-remains",
+      "category": "animals",
+      "title": "Tidal Remains",
+      "image": "images/products/animals/Tidal Remains.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
       "active": false
     },
     {
-      "id": "demo-night-visitor",
+      "id": "first-light",
+      "category": "animals",
+      "title": "First Light",
+      "image": "images/products/animals/First Light.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "below-the-surface",
+      "category": "animals",
+      "title": "Below the Surface",
+      "image": "images/products/animals/Below the Surface.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "reach",
+      "category": "animals",
+      "title": "Reach",
+      "image": "images/products/animals/Reach.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "night-visitor",
       "category": "animals",
       "title": "Night Visitor",
-      "price": 85,
       "image": "images/products/animals/Night Visitor.jpg",
-      "description": ["Placeholder description — replace with real print details."],
-      "stripePriceId": null,
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
       "active": false
     },
     {
-      "id": "demo-lions-mane-jelly-fish",
+      "id": "emerge",
       "category": "animals",
-      "title": "Lion's Mane Jelly Fish",
-      "price": 85,
-      "image": "images/products/animals/Lion's Mane Jelly Fish.jpg",
-      "description": ["Placeholder description — replace with real print details."],
-      "stripePriceId": null,
+      "title": "Emerge",
+      "image": "images/products/animals/Emerge.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
       "active": false
     },
     {
-      "id": "demo-snakeskin-1",
+      "id": "convergence",
       "category": "animals",
-      "title": "Snakeskin 1",
-      "price": 85,
-      "image": "images/products/animals/Snakeskin 1.jpg",
-      "description": ["Placeholder description — replace with real print details."],
-      "stripePriceId": null,
+      "title": "Convergence",
+      "image": "images/products/animals/Convergence.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
       "active": false
     },
     {
-      "id": "demo-snakeskin-2",
+      "id": "the-crossing",
       "category": "animals",
-      "title": "Snakeskin 2",
-      "price": 85,
-      "image": "images/products/animals/Snakeskin 2.jpg",
-      "description": ["Placeholder description — replace with real print details."],
-      "stripePriceId": null,
+      "title": "The Crossing",
+      "image": "images/products/animals/The Crossing.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
       "active": false
     },
     {
-      "id": "demo-turkey-with-polts",
+      "id": "drift-2",
       "category": "animals",
-      "title": "Turkey with Polts",
-      "price": 85,
-      "image": "images/products/animals/Turkey with Polts.jpg",
-      "description": ["Placeholder description — replace with real print details."],
-      "stripePriceId": null,
-      "active": false
-    },
-    {
-      "id": "demo-untitled-1",
-      "category": "animals",
-      "title": "Untitled 1",
-      "price": 85,
-      "image": "images/products/animals/Untitled 1.jpg",
-      "description": ["Placeholder description — replace with real print details."],
-      "stripePriceId": null,
-      "active": false
-    },
-    {
-      "id": "demo-untitled-2",
-      "category": "animals",
-      "title": "Untitled 2",
-      "price": 85,
-      "image": "images/products/animals/Untitled 2.jpg",
-      "description": ["Placeholder description — replace with real print details."],
-      "stripePriceId": null,
+      "title": "Drift 2",
+      "image": "images/products/animals/Drift 2.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
       "active": false
     }
   ]
