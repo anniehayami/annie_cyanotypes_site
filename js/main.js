@@ -3,10 +3,16 @@ async function loadCatalog() {
   return res.json();
 }
 
+// Escapes a path for safe use inside a single-quoted CSS url('...') value
+// (filenames/titles can contain apostrophes, e.g. "Brooke's Poppy.jpg").
+function cssUrl(path) {
+  return path.replace(/'/g, "\\'");
+}
+
 function renderHero(catalog) {
   const hero = document.querySelector('[data-hero]');
   if (!hero) return;
-  hero.style.backgroundImage = `url('${catalog.hero.image}')`;
+  hero.style.backgroundImage = `url('${cssUrl(catalog.hero.image)}')`;
   hero.querySelector('[data-hero-title]').textContent = catalog.hero.title;
 }
 
@@ -17,7 +23,7 @@ function renderCategoryGallery(catalog) {
     .map(
       (cat) => `
       <a class="category-tile" href="category.html?cat=${cat.slug}">
-        <span class="category-tile-image" style="background-image:url('${cat.image}')"></span>
+        <span class="category-tile-image" style="background-image:url('${cssUrl(cat.image)}')"></span>
         <span class="category-tile-label">${cat.name}</span>
       </a>
     `
@@ -64,7 +70,7 @@ function renderProductGrid(catalog) {
       const imagePosition = p.imagePosition || 'center';
       return `
         <a class="product-card" href="product.html?id=${p.id}">
-          <div class="product-card-image" style="background-image:url('${p.image}'); background-position: ${imagePosition};"></div>
+          <div class="product-card-image" style="background-image:url('${cssUrl(p.image)}'); background-position: ${imagePosition};"></div>
           <h3>${p.title}</h3>
           <p class="price">From $${fromPrice.toFixed(2)}</p>
         </a>
@@ -112,7 +118,7 @@ function renderProductDetail(catalog) {
 
   root.innerHTML = `
     <div class="product-detail-media">
-      <div class="product-detail-image" style="background-image:url('${product.image}'); background-position: ${imagePosition};"></div>
+      <div class="product-detail-image" style="background-image:url('${cssUrl(product.image)}'); background-position: ${imagePosition};"></div>
     </div>
     <div class="product-detail-info">
       <h1>${product.title}</h1>

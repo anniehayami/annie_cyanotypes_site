@@ -757,6 +757,2046 @@
         }
       ],
       "active": false
+    },
+    {
+      "id": "angel-wing-begonia",
+      "category": "botanicals",
+      "title": "Angel Wing Begonia",
+      "image": "images/products/botanicals/Angel Wing Begonia.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "brookes-poppy",
+      "category": "botanicals",
+      "title": "Brooke's Poppy",
+      "image": "images/products/botanicals/Brooke's Poppy.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "california-poppies",
+      "category": "botanicals",
+      "title": "California Poppies",
+      "image": "images/products/botanicals/California Poppies.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "cherry-blossom-petals",
+      "category": "botanicals",
+      "title": "Cherry Blossom petals",
+      "image": "images/products/botanicals/Cherry Blossom petals.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "cherry-blossoms-wet-cyanotype",
+      "category": "botanicals",
+      "title": "Cherry Blossoms Wet Cyanotype",
+      "image": "images/products/botanicals/Cherry Blossoms Wet Cyanotype.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "crimson-iris",
+      "category": "botanicals",
+      "title": "Crimson Iris",
+      "image": "images/products/botanicals/Crimson Iris.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "crimson-poppies",
+      "category": "botanicals",
+      "title": "Crimson Poppies",
+      "image": "images/products/botanicals/Crimson Poppies.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "daffodil-1",
+      "category": "botanicals",
+      "title": "Daffodil 1",
+      "image": "images/products/botanicals/Daffodil 1.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "dahlia-study-1",
+      "category": "botanicals",
+      "title": "Dahlia Study 1",
+      "image": "images/products/botanicals/Dahlia Study 1.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "dahlia",
+      "category": "botanicals",
+      "title": "Dahlia",
+      "image": "images/products/botanicals/Dahlia.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "dandelion-study-1",
+      "category": "botanicals",
+      "title": "Dandelion Study 1",
+      "image": "images/products/botanicals/Dandelion Study 1.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "dandelion-study-2",
+      "category": "botanicals",
+      "title": "Dandelion Study 2",
+      "image": "images/products/botanicals/Dandelion Study 2.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "dandelion-study-3",
+      "category": "botanicals",
+      "title": "Dandelion Study 3",
+      "image": "images/products/botanicals/Dandelion Study 3.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "dandelion-study-4",
+      "category": "botanicals",
+      "title": "Dandelion Study 4",
+      "image": "images/products/botanicals/Dandelion Study 4.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "dandelion-study-5",
+      "category": "botanicals",
+      "title": "Dandelion Study 5",
+      "image": "images/products/botanicals/Dandelion Study 5.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "dandelion-study-6",
+      "category": "botanicals",
+      "title": "Dandelion Study 6",
+      "image": "images/products/botanicals/Dandelion Study 6.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "garden-in-a-leaf",
+      "category": "botanicals",
+      "title": "Garden in a Leaf",
+      "image": "images/products/botanicals/Garden in a Leaf.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "iris-2",
+      "category": "botanicals",
+      "title": "Iris 2",
+      "image": "images/products/botanicals/Iris 2.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "iris",
+      "category": "botanicals",
+      "title": "Iris",
+      "image": "images/products/botanicals/Iris.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "lavender-in-beach-glass-bottle",
+      "category": "botanicals",
+      "title": "Lavender in Beach Glass Bottle",
+      "image": "images/products/botanicals/Lavender in Beach Glass Bottle.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "lilly",
+      "category": "botanicals",
+      "title": "Lilly",
+      "image": "images/products/botanicals/Lilly.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "magnolia-study-1",
+      "category": "botanicals",
+      "title": "Magnolia Study 1",
+      "image": "images/products/botanicals/Magnolia Study 1.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "magnolia-study-2",
+      "category": "botanicals",
+      "title": "Magnolia Study 2",
+      "image": "images/products/botanicals/Magnolia Study 2.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "magnolia-study-3",
+      "category": "botanicals",
+      "title": "Magnolia Study 3",
+      "image": "images/products/botanicals/Magnolia Study 3.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "magnolia-study-4",
+      "category": "botanicals",
+      "title": "Magnolia Study 4",
+      "image": "images/products/botanicals/Magnolia Study 4.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "magnolia-study-5",
+      "category": "botanicals",
+      "title": "Magnolia Study 5",
+      "image": "images/products/botanicals/Magnolia Study 5.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "magnolia-study-6",
+      "category": "botanicals",
+      "title": "Magnolia Study 6",
+      "image": "images/products/botanicals/Magnolia Study 6.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "magnolia-study-7",
+      "category": "botanicals",
+      "title": "Magnolia Study 7",
+      "image": "images/products/botanicals/Magnolia Study 7.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "mock-orange-wet-cyanotype",
+      "category": "botanicals",
+      "title": "Mock Orange Wet Cyanotype",
+      "image": "images/products/botanicals/Mock Orange Wet Cyanotype.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "moms-hibiscus-1",
+      "category": "botanicals",
+      "title": "Mom's Hibiscus 1",
+      "image": "images/products/botanicals/Mom's Hibiscus 1.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "moms-hibiscus-2",
+      "category": "botanicals",
+      "title": "Mom's Hibiscus 2",
+      "image": "images/products/botanicals/Mom's Hibiscus 2.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "money-plant-study-1",
+      "category": "botanicals",
+      "title": "Money Plant Study 1",
+      "image": "images/products/botanicals/Money Plant Study 1.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "money-plant-study-2",
+      "category": "botanicals",
+      "title": "Money Plant Study 2",
+      "image": "images/products/botanicals/Money Plant Study 2.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "money-plant-study-3",
+      "category": "botanicals",
+      "title": "Money Plant Study 3",
+      "image": "images/products/botanicals/Money Plant Study 3.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "orchid-net",
+      "category": "botanicals",
+      "title": "Orchid Net",
+      "image": "images/products/botanicals/Orchid Net.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "orchid-trail",
+      "category": "botanicals",
+      "title": "Orchid Trail",
+      "image": "images/products/botanicals/Orchid Trail.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "poppy-study-1",
+      "category": "botanicals",
+      "title": "Poppy Study 1",
+      "image": "images/products/botanicals/Poppy Study 1.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "poppy-study-2",
+      "category": "botanicals",
+      "title": "Poppy Study 2",
+      "image": "images/products/botanicals/Poppy Study 2.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "red-money-plant",
+      "category": "botanicals",
+      "title": "Red Money Plant",
+      "image": "images/products/botanicals/Red Money Plant.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "rose-of-sharon-mandala",
+      "category": "botanicals",
+      "title": "Rose of Sharon Mandala",
+      "image": "images/products/botanicals/Rose of Sharon Mandala.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "sea-tree-1",
+      "category": "botanicals",
+      "title": "Sea Tree 1",
+      "image": "images/products/botanicals/Sea Tree 1.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "sea-tree-2",
+      "category": "botanicals",
+      "title": "Sea Tree 2",
+      "image": "images/products/botanicals/Sea Tree 2.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "shadow-study-1",
+      "category": "botanicals",
+      "title": "Shadow Study 1",
+      "image": "images/products/botanicals/Shadow Study 1.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "shadow-study-2",
+      "category": "botanicals",
+      "title": "Shadow Study 2",
+      "image": "images/products/botanicals/Shadow Study 2.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "shadow-study-3",
+      "category": "botanicals",
+      "title": "Shadow Study 3",
+      "image": "images/products/botanicals/Shadow Study 3.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "shadow-study-4",
+      "category": "botanicals",
+      "title": "Shadow Study 4",
+      "image": "images/products/botanicals/Shadow Study 4.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "siberian-iris",
+      "category": "botanicals",
+      "title": "Siberian Iris",
+      "image": "images/products/botanicals/Siberian Iris.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "snow-drops",
+      "category": "botanicals",
+      "title": "Snow Drops",
+      "image": "images/products/botanicals/Snow Drops.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "star-gazer-lilly-2",
+      "category": "botanicals",
+      "title": "Star Gazer Lilly 2",
+      "image": "images/products/botanicals/Star Gazer Lilly 2.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "star-gazer-lilly",
+      "category": "botanicals",
+      "title": "Star Gazer Lilly",
+      "image": "images/products/botanicals/Star Gazer Lilly.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "tangled-buttercups",
+      "category": "botanicals",
+      "title": "Tangled Buttercups",
+      "image": "images/products/botanicals/Tangled Buttercups.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "tilted-hydrangeas",
+      "category": "botanicals",
+      "title": "Tilted Hydrangeas",
+      "image": "images/products/botanicals/Tilted Hydrangeas.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "tulip-and-fern",
+      "category": "botanicals",
+      "title": "Tulip and Fern",
+      "image": "images/products/botanicals/Tulip and Fern.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "tulips",
+      "category": "botanicals",
+      "title": "Tulips",
+      "image": "images/products/botanicals/Tulips.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "tuscon-study-1",
+      "category": "botanicals",
+      "title": "Tuscon Study 1",
+      "image": "images/products/botanicals/Tuscon Study 1.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "tuscon-study-2",
+      "category": "botanicals",
+      "title": "Tuscon Study 2",
+      "image": "images/products/botanicals/Tuscon Study 2.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "water-lily-study-1",
+      "category": "botanicals",
+      "title": "Water Lily Study 1",
+      "image": "images/products/botanicals/Water Lily Study 1.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "wildflower-bouquet",
+      "category": "botanicals",
+      "title": "Wildflower Bouquet",
+      "image": "images/products/botanicals/Wildflower Bouquet.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "hydrangeo-study-1",
+      "category": "botanicals",
+      "title": "hydrangeo Study 1",
+      "image": "images/products/botanicals/hydrangeo Study 1.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "carry",
+      "category": "people",
+      "title": "Carry",
+      "image": "images/products/people/Carry.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "chance-of-feathers",
+      "category": "people",
+      "title": "Chance of Feathers",
+      "image": "images/products/people/Chance of Feathers.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "curls",
+      "category": "people",
+      "title": "Curls",
+      "image": "images/products/people/Curls.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "evidence",
+      "category": "people",
+      "title": "Evidence",
+      "image": "images/products/people/Evidence.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "inward",
+      "category": "people",
+      "title": "Inward",
+      "image": "images/products/people/Inward.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "mirrored-self-portrait",
+      "category": "people",
+      "title": "Mirrored Self Portrait",
+      "image": "images/products/people/Mirrored Self Portrait.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "offering",
+      "category": "people",
+      "title": "Offering",
+      "image": "images/products/people/Offering.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "veil",
+      "category": "people",
+      "title": "Veil",
+      "image": "images/products/people/Veil.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "wild-crown",
+      "category": "people",
+      "title": "Wild Crown",
+      "image": "images/products/people/Wild Crown.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
     }
   ]
 }
