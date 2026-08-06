@@ -3487,6 +3487,276 @@
         }
       ],
       "active": false
+    },
+    {
+      "id": "boat-planter-wellfleet",
+      "category": "places",
+      "title": "Boat Planter, Wellfleet",
+      "image": "images/products/places/Boat Planter, Wellfleet.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "flying-lady-tuscon-1",
+      "category": "places",
+      "title": "Flying Lady Tuscon 1",
+      "image": "images/products/places/Flying Lady Tuscon 1.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "flying-lady-tuscon-2",
+      "category": "places",
+      "title": "Flying Lady, Tuscon 2",
+      "image": "images/products/places/Flying Lady, Tuscon 2.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "lighthouse-long-island-sound",
+      "category": "places",
+      "title": "Lighthouse, Long Island Sound",
+      "image": "images/products/places/Lighthouse, Long Island Sound.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "meat-packing-district-nyc",
+      "category": "places",
+      "title": "Meat Packing District, NYC",
+      "image": "images/products/places/Meat Packing District, NYC.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "ocks-downtown-tuscon",
+      "category": "places",
+      "title": "Ocks, Downtown Tuscon",
+      "image": "images/products/places/Ocks, Downtown Tuscon.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "scallop-indian-neck-wellfleet",
+      "category": "places",
+      "title": "Scallop Indian Neck, Wellfleet",
+      "image": "images/products/places/Scallop Indian Neck, Wellfleet.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "sunset-cruises-wellfleet",
+      "category": "places",
+      "title": "Sunset Cruises, Wellfleet",
+      "image": "images/products/places/Sunset Cruises, Wellfleet.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "weathered-car-tuscon",
+      "category": "places",
+      "title": "Weathered Car, Tuscon",
+      "image": "images/products/places/Weathered Car, Tuscon.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
     }
   ]
 }
