@@ -2797,6 +2797,696 @@
         }
       ],
       "active": false
+    },
+    {
+      "id": "bama-in-gold",
+      "category": "mixed-media",
+      "title": "Bama in Gold",
+      "image": "images/products/mixed-media/Bama in Gold.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "california-poppies-mixed-media",
+      "category": "mixed-media",
+      "title": "California Poppies",
+      "image": "images/products/mixed-media/California Poppies.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "climbing",
+      "category": "mixed-media",
+      "title": "Climbing",
+      "image": "images/products/mixed-media/Climbing.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "ferns",
+      "category": "mixed-media",
+      "title": "Ferns",
+      "image": "images/products/mixed-media/Ferns.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "gold-magnolia",
+      "category": "mixed-media",
+      "title": "Gold Magnolia",
+      "image": "images/products/mixed-media/Gold Magnolia.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "golden-flowers",
+      "category": "mixed-media",
+      "title": "Golden Flowers",
+      "image": "images/products/mixed-media/Golden Flowers.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "gummy-bear-study-1",
+      "category": "mixed-media",
+      "title": "Gummy Bear Study 1",
+      "image": "images/products/mixed-media/Gummy Bear Study 1.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "gummy-bear-study-2",
+      "category": "mixed-media",
+      "title": "Gummy Bear Study 2",
+      "image": "images/products/mixed-media/Gummy Bear Study 2.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "happiness-slightly-deflated",
+      "category": "mixed-media",
+      "title": "Happiness slightly Deflated",
+      "image": "images/products/mixed-media/Happiness slightly Deflated.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "line-poppies",
+      "category": "mixed-media",
+      "title": "Line Poppies",
+      "image": "images/products/mixed-media/Line Poppies.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "midnight-garden",
+      "category": "mixed-media",
+      "title": "Midnight Garden",
+      "image": "images/products/mixed-media/Midnight Garden.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "night-flowers",
+      "category": "mixed-media",
+      "title": "Night Flowers",
+      "image": "images/products/mixed-media/Night Flowers.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "night-garden-1",
+      "category": "mixed-media",
+      "title": "Night Garden 1",
+      "image": "images/products/mixed-media/Night Garden 1.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "night-garden-2",
+      "category": "mixed-media",
+      "title": "Night Garden 2",
+      "image": "images/products/mixed-media/Night Garden 2.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "night-garden-3",
+      "category": "mixed-media",
+      "title": "Night Garden 3",
+      "image": "images/products/mixed-media/Night Garden 3.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "night-garden-4",
+      "category": "mixed-media",
+      "title": "Night Garden 4",
+      "image": "images/products/mixed-media/Night Garden 4.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "scarlett-poppies",
+      "category": "mixed-media",
+      "title": "Scarlett Poppies",
+      "image": "images/products/mixed-media/Scarlett Poppies.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "shades",
+      "category": "mixed-media",
+      "title": "Shades",
+      "image": "images/products/mixed-media/Shades.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "twisted",
+      "category": "mixed-media",
+      "title": "Twisted",
+      "image": "images/products/mixed-media/Twisted.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "unspooling-1",
+      "category": "mixed-media",
+      "title": "Unspooling 1",
+      "image": "images/products/mixed-media/Unspooling 1.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "unspooling-2",
+      "category": "mixed-media",
+      "title": "Unspooling 2",
+      "image": "images/products/mixed-media/Unspooling 2.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "vine",
+      "category": "mixed-media",
+      "title": "Vine",
+      "image": "images/products/mixed-media/Vine.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "watercolor-poppies",
+      "category": "mixed-media",
+      "title": "Watercolor Poppies",
+      "image": "images/products/mixed-media/Watercolor Poppies.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
     }
   ]
 }
