@@ -54,15 +54,56 @@ function renderProductGrid(catalog) {
 
   const params = new URLSearchParams(window.location.search);
   const slug = params.get('cat');
+  const subSlug = params.get('sub');
+  const empty = document.querySelector('[data-empty-state]');
+  const breadcrumb = document.querySelector('[data-shop-breadcrumb]');
+  const category = catalog.categories.find((c) => c.slug === slug);
 
-  const products = catalog.products.filter((p) => !slug || p.category === slug);
+  // Category has subcategories and none picked yet: show subcategory tiles instead of a flat grid.
+  if (category && category.subcategories && !subSlug) {
+    if (breadcrumb) {
+      breadcrumb.innerHTML = '';
+      breadcrumb.style.display = 'none';
+    }
+    if (empty) empty.style.display = 'none';
+    grid.innerHTML = category.subcategories
+      .map(
+        (sub) => `
+        <a class="category-tile" href="category.html?cat=${slug}&sub=${sub.slug}">
+          <span class="category-tile-image" style="background-image:url('${cssUrl(sub.image)}')"></span>
+          <span class="category-tile-label">${sub.name}</span>
+        </a>
+      `
+      )
+      .join('');
+    return;
+  }
+
+  if (breadcrumb) {
+    const sub = category && category.subcategories && category.subcategories.find((s) => s.slug === subSlug);
+    if (category && sub) {
+      breadcrumb.style.display = 'block';
+      breadcrumb.innerHTML = `
+        <a href="category.html?cat=${slug}">${category.name}</a>
+        <span>&rsaquo;</span>
+        <span>${sub.name}</span>
+      `;
+    } else {
+      breadcrumb.innerHTML = '';
+      breadcrumb.style.display = 'none';
+    }
+  }
+
+  const products = catalog.products.filter(
+    (p) => (!slug || p.category === slug) && (!subSlug || p.subcategory === subSlug)
+  );
 
   if (products.length === 0) {
     grid.innerHTML = '';
-    const empty = document.querySelector('[data-empty-state]');
     if (empty) empty.style.display = 'block';
     return;
   }
+  if (empty) empty.style.display = 'none';
 
   grid.innerHTML = products
     .map((p) => {

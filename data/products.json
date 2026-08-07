@@ -8,7 +8,59 @@
     {
       "slug": "botanicals",
       "name": "Botanicals",
-      "image": "images/botanicals.jpg"
+      "image": "images/botanicals.jpg",
+      "subcategories": [
+        {
+          "slug": "poppies",
+          "name": "Poppies",
+          "image": "images/products/botanicals/Brooke's Poppy.jpg"
+        },
+        {
+          "slug": "hibiscus",
+          "name": "Hibiscus",
+          "image": "images/products/botanicals/Mom's Hibiscus 2.jpg"
+        },
+        {
+          "slug": "iris",
+          "name": "Iris",
+          "image": "images/products/botanicals/Siberian Iris.jpg"
+        },
+        {
+          "slug": "magnolias",
+          "name": "Magnolias",
+          "image": "images/products/botanicals/Magnolia Study 1.jpg"
+        },
+        {
+          "slug": "dandelion",
+          "name": "Dandelion",
+          "image": "images/products/botanicals/Dandelion Study 2.jpg"
+        },
+        {
+          "slug": "lillies",
+          "name": "Lillies",
+          "image": "images/products/botanicals/Star Gazer Lily.jpg"
+        },
+        {
+          "slug": "money-plant",
+          "name": "Money Plant",
+          "image": "images/products/botanicals/Money Plant Study 2.jpg"
+        },
+        {
+          "slug": "orchids",
+          "name": "Orchids",
+          "image": "images/products/botanicals/Orchid Trail.jpg"
+        },
+        {
+          "slug": "shadow-studies",
+          "name": "Shadow Studies",
+          "image": "images/products/botanicals/Shadow Study 2.jpg"
+        },
+        {
+          "slug": "assorted-botanicals",
+          "name": "Assorted Botanicals",
+          "image": "images/products/botanicals/Angel Wing Begonia.jpg"
+        }
+      ]
     },
     {
       "slug": "animals",
@@ -786,7 +838,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "brookes-poppy",
@@ -816,7 +869,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "poppies"
     },
     {
       "id": "california-poppies",
@@ -846,7 +900,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "poppies"
     },
     {
       "id": "cherry-blossom-petals",
@@ -876,7 +931,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "cherry-blossoms-wet-cyanotype",
@@ -906,7 +962,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "crimson-iris",
@@ -936,7 +993,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "iris"
     },
     {
       "id": "crimson-poppies",
@@ -966,7 +1024,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "poppies"
     },
     {
       "id": "daffodil-1",
@@ -996,7 +1055,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "dahlia-study-1",
@@ -1026,7 +1086,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "dahlia",
@@ -1056,7 +1117,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "dandelion-study-1",
@@ -1086,7 +1148,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "dandelion"
     },
     {
       "id": "dandelion-study-2",
@@ -1116,7 +1179,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "dandelion"
     },
     {
       "id": "dandelion-study-3",
@@ -1146,7 +1210,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "dandelion"
     },
     {
       "id": "dandelion-study-4",
@@ -1176,7 +1241,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "dandelion"
     },
     {
       "id": "dandelion-study-5",
@@ -1206,7 +1272,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "dandelion"
     },
     {
       "id": "dandelion-study-6",
@@ -1236,7 +1303,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "dandelion"
     },
     {
       "id": "garden-in-a-leaf",
@@ -1266,7 +1334,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "iris-2",
@@ -1296,7 +1365,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "iris"
     },
     {
       "id": "iris",
@@ -1326,7 +1396,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "iris"
     },
     {
       "id": "lavender-in-beach-glass-bottle",
@@ -1356,13 +1427,14 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
-      "id": "lilly",
+      "id": "lily",
       "category": "botanicals",
-      "title": "Lilly",
-      "image": "images/products/botanicals/Lilly.jpg",
+      "title": "Lily",
+      "image": "images/products/botanicals/Lily.jpg",
       "description": [
         "Placeholder description — replace with real print details."
       ],
@@ -1386,7 +1458,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "lillies"
     },
     {
       "id": "magnolia-study-1",
@@ -1416,7 +1489,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "magnolias"
     },
     {
       "id": "magnolia-study-2",
@@ -1446,7 +1520,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "magnolias"
     },
     {
       "id": "magnolia-study-3",
@@ -1476,7 +1551,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "magnolias"
     },
     {
       "id": "magnolia-study-4",
@@ -1506,7 +1582,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "magnolias"
     },
     {
       "id": "magnolia-study-5",
@@ -1536,7 +1613,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "magnolias"
     },
     {
       "id": "magnolia-study-6",
@@ -1566,7 +1644,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "magnolias"
     },
     {
       "id": "magnolia-study-7",
@@ -1596,7 +1675,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "magnolias"
     },
     {
       "id": "mock-orange-wet-cyanotype",
@@ -1626,7 +1706,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "moms-hibiscus-1",
@@ -1656,7 +1737,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "hibiscus"
     },
     {
       "id": "moms-hibiscus-2",
@@ -1686,7 +1768,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "hibiscus"
     },
     {
       "id": "money-plant-study-1",
@@ -1716,7 +1799,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "money-plant"
     },
     {
       "id": "money-plant-study-2",
@@ -1746,7 +1830,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "money-plant"
     },
     {
       "id": "money-plant-study-3",
@@ -1776,7 +1861,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "money-plant"
     },
     {
       "id": "orchid-net",
@@ -1806,7 +1892,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "orchids"
     },
     {
       "id": "orchid-trail",
@@ -1836,7 +1923,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "orchids"
     },
     {
       "id": "poppy-study-1",
@@ -1866,7 +1954,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "poppies"
     },
     {
       "id": "poppy-study-2",
@@ -1896,7 +1985,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "poppies"
     },
     {
       "id": "red-money-plant",
@@ -1926,7 +2016,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "money-plant"
     },
     {
       "id": "rose-of-sharon-mandala",
@@ -1956,7 +2047,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "sea-tree-1",
@@ -1986,7 +2078,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "sea-tree-2",
@@ -2016,7 +2109,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "shadow-study-1",
@@ -2046,7 +2140,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "shadow-studies"
     },
     {
       "id": "shadow-study-2",
@@ -2076,7 +2171,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "shadow-studies"
     },
     {
       "id": "shadow-study-3",
@@ -2106,7 +2202,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "shadow-studies"
     },
     {
       "id": "shadow-study-4",
@@ -2136,7 +2233,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "shadow-studies"
     },
     {
       "id": "siberian-iris",
@@ -2166,7 +2264,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "iris"
     },
     {
       "id": "snow-drops",
@@ -2196,13 +2295,14 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
-      "id": "star-gazer-lilly-2",
+      "id": "star-gazer-lily-2",
       "category": "botanicals",
-      "title": "Star Gazer Lilly 2",
-      "image": "images/products/botanicals/Star Gazer Lilly 2.jpg",
+      "title": "Star Gazer Lily 2",
+      "image": "images/products/botanicals/Star Gazer Lily 2.jpg",
       "description": [
         "Placeholder description — replace with real print details."
       ],
@@ -2226,13 +2326,14 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "lillies"
     },
     {
-      "id": "star-gazer-lilly",
+      "id": "star-gazer-lily",
       "category": "botanicals",
-      "title": "Star Gazer Lilly",
-      "image": "images/products/botanicals/Star Gazer Lilly.jpg",
+      "title": "Star Gazer Lily",
+      "image": "images/products/botanicals/Star Gazer Lily.jpg",
       "description": [
         "Placeholder description — replace with real print details."
       ],
@@ -2256,7 +2357,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "lillies"
     },
     {
       "id": "tangled-buttercups",
@@ -2286,7 +2388,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "tilted-hydrangeas",
@@ -2316,7 +2419,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "tulip-and-fern",
@@ -2346,7 +2450,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "tulips",
@@ -2376,7 +2481,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "tuscon-study-1",
@@ -2406,7 +2512,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "tuscon-study-2",
@@ -2436,7 +2543,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "water-lily-study-1",
@@ -2466,7 +2574,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "lillies"
     },
     {
       "id": "wildflower-bouquet",
@@ -2496,13 +2605,14 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
-      "id": "hydrangeo-study-1",
+      "id": "hydrangea-study-1",
       "category": "botanicals",
-      "title": "hydrangeo Study 1",
-      "image": "images/products/botanicals/hydrangeo Study 1.jpg",
+      "title": "Hydrangea Study 1",
+      "image": "images/products/botanicals/Hydrangea Study 1.jpg",
       "description": [
         "Placeholder description — replace with real print details."
       ],
@@ -2526,7 +2636,8 @@
           "stripePriceId": null
         }
       ],
-      "active": false
+      "active": false,
+      "subcategory": "assorted-botanicals"
     },
     {
       "id": "carry",
