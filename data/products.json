@@ -3900,10 +3900,490 @@
       "active": false
     },
     {
+      "id": "loose-screws",
+      "category": "things",
+      "title": "Loose Screws",
+      "image": "images/products/things/Loose Screws.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
       "id": "a-way-through-2",
       "category": "things",
       "title": "A Way Through 2",
       "image": "images/products/things/A Way Through 2.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "pepper",
+      "category": "things",
+      "title": "Pepper",
+      "image": "images/products/things/Pepper.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "seasoned",
+      "category": "things",
+      "title": "Seasoned",
+      "image": "images/products/things/Seasoned.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "salt",
+      "category": "things",
+      "title": "Salt",
+      "image": "images/products/things/Salt.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "lab-notes",
+      "category": "things",
+      "title": "Lab Notes",
+      "image": "images/products/things/Lab Notes.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "trace",
+      "category": "things",
+      "title": "Trace",
+      "image": "images/products/things/Trace.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "gloves",
+      "category": "things",
+      "title": "Gloves",
+      "image": "images/products/things/Gloves.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "underwire",
+      "category": "things",
+      "title": "Underwire",
+      "image": "images/products/things/Underwire.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "pose",
+      "category": "things",
+      "title": "Pose",
+      "image": "images/products/things/Pose.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "thank-you",
+      "category": "things",
+      "title": "Thank You",
+      "image": "images/products/things/Thank You.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "interior-landscape",
+      "category": "things",
+      "title": "Interior Landscape",
+      "image": "images/products/things/Interior Landscape.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "jaws",
+      "category": "things",
+      "title": "Jaws",
+      "image": "images/products/things/Jaws.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "tall-tales",
+      "category": "things",
+      "title": "Tall Tales",
+      "image": "images/products/things/Tall Tales.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "icicles-1",
+      "category": "things",
+      "title": "Icicles 1",
+      "image": "images/products/things/Icicles 1.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "icicles-2",
+      "category": "things",
+      "title": "Icicles 2",
+      "image": "images/products/things/Icicles 2.jpg",
+      "description": [
+        "Placeholder description — replace with real print details."
+      ],
+      "sizes": [
+        {
+          "name": "Small",
+          "dimensions": "5\" x 7\"",
+          "price": 15,
+          "stripePriceId": null
+        },
+        {
+          "name": "Medium",
+          "dimensions": "8.5\" x 11\"",
+          "price": 25,
+          "stripePriceId": null
+        },
+        {
+          "name": "Large",
+          "dimensions": "11\" x 17\"",
+          "price": 40,
+          "stripePriceId": null
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "icicles-3",
+      "category": "things",
+      "title": "Icicles 3",
+      "image": "images/products/things/Icicles 3.jpg",
       "description": [
         "Placeholder description — replace with real print details."
       ],
@@ -4050,366 +4530,6 @@
       "active": false
     },
     {
-      "id": "icicles-1",
-      "category": "things",
-      "title": "Icicles 1",
-      "image": "images/products/things/Icicles 1.jpg",
-      "description": [
-        "Placeholder description — replace with real print details."
-      ],
-      "sizes": [
-        {
-          "name": "Small",
-          "dimensions": "5\" x 7\"",
-          "price": 15,
-          "stripePriceId": null
-        },
-        {
-          "name": "Medium",
-          "dimensions": "8.5\" x 11\"",
-          "price": 25,
-          "stripePriceId": null
-        },
-        {
-          "name": "Large",
-          "dimensions": "11\" x 17\"",
-          "price": 40,
-          "stripePriceId": null
-        }
-      ],
-      "active": false
-    },
-    {
-      "id": "icicles-2",
-      "category": "things",
-      "title": "Icicles 2",
-      "image": "images/products/things/Icicles 2.jpg",
-      "description": [
-        "Placeholder description — replace with real print details."
-      ],
-      "sizes": [
-        {
-          "name": "Small",
-          "dimensions": "5\" x 7\"",
-          "price": 15,
-          "stripePriceId": null
-        },
-        {
-          "name": "Medium",
-          "dimensions": "8.5\" x 11\"",
-          "price": 25,
-          "stripePriceId": null
-        },
-        {
-          "name": "Large",
-          "dimensions": "11\" x 17\"",
-          "price": 40,
-          "stripePriceId": null
-        }
-      ],
-      "active": false
-    },
-    {
-      "id": "icicles-3",
-      "category": "things",
-      "title": "Icicles 3",
-      "image": "images/products/things/Icicles 3.jpg",
-      "description": [
-        "Placeholder description — replace with real print details."
-      ],
-      "sizes": [
-        {
-          "name": "Small",
-          "dimensions": "5\" x 7\"",
-          "price": 15,
-          "stripePriceId": null
-        },
-        {
-          "name": "Medium",
-          "dimensions": "8.5\" x 11\"",
-          "price": 25,
-          "stripePriceId": null
-        },
-        {
-          "name": "Large",
-          "dimensions": "11\" x 17\"",
-          "price": 40,
-          "stripePriceId": null
-        }
-      ],
-      "active": false
-    },
-    {
-      "id": "salt",
-      "category": "things",
-      "title": "Salt",
-      "image": "images/products/things/Salt.jpg",
-      "description": [
-        "Placeholder description — replace with real print details."
-      ],
-      "sizes": [
-        {
-          "name": "Small",
-          "dimensions": "5\" x 7\"",
-          "price": 15,
-          "stripePriceId": null
-        },
-        {
-          "name": "Medium",
-          "dimensions": "8.5\" x 11\"",
-          "price": 25,
-          "stripePriceId": null
-        },
-        {
-          "name": "Large",
-          "dimensions": "11\" x 17\"",
-          "price": 40,
-          "stripePriceId": null
-        }
-      ],
-      "active": false
-    },
-    {
-      "id": "pepper",
-      "category": "things",
-      "title": "Pepper",
-      "image": "images/products/things/Pepper.jpg",
-      "description": [
-        "Placeholder description — replace with real print details."
-      ],
-      "sizes": [
-        {
-          "name": "Small",
-          "dimensions": "5\" x 7\"",
-          "price": 15,
-          "stripePriceId": null
-        },
-        {
-          "name": "Medium",
-          "dimensions": "8.5\" x 11\"",
-          "price": 25,
-          "stripePriceId": null
-        },
-        {
-          "name": "Large",
-          "dimensions": "11\" x 17\"",
-          "price": 40,
-          "stripePriceId": null
-        }
-      ],
-      "active": false
-    },
-    {
-      "id": "seasoned",
-      "category": "things",
-      "title": "Seasoned",
-      "image": "images/products/things/Seasoned.jpg",
-      "description": [
-        "Placeholder description — replace with real print details."
-      ],
-      "sizes": [
-        {
-          "name": "Small",
-          "dimensions": "5\" x 7\"",
-          "price": 15,
-          "stripePriceId": null
-        },
-        {
-          "name": "Medium",
-          "dimensions": "8.5\" x 11\"",
-          "price": 25,
-          "stripePriceId": null
-        },
-        {
-          "name": "Large",
-          "dimensions": "11\" x 17\"",
-          "price": 40,
-          "stripePriceId": null
-        }
-      ],
-      "active": false
-    },
-    {
-      "id": "gloves",
-      "category": "things",
-      "title": "Gloves",
-      "image": "images/products/things/Gloves.jpg",
-      "description": [
-        "Placeholder description — replace with real print details."
-      ],
-      "sizes": [
-        {
-          "name": "Small",
-          "dimensions": "5\" x 7\"",
-          "price": 15,
-          "stripePriceId": null
-        },
-        {
-          "name": "Medium",
-          "dimensions": "8.5\" x 11\"",
-          "price": 25,
-          "stripePriceId": null
-        },
-        {
-          "name": "Large",
-          "dimensions": "11\" x 17\"",
-          "price": 40,
-          "stripePriceId": null
-        }
-      ],
-      "active": false
-    },
-    {
-      "id": "interior-landscape",
-      "category": "things",
-      "title": "Interior Landscape",
-      "image": "images/products/things/Interior Landscape.jpg",
-      "description": [
-        "Placeholder description — replace with real print details."
-      ],
-      "sizes": [
-        {
-          "name": "Small",
-          "dimensions": "5\" x 7\"",
-          "price": 15,
-          "stripePriceId": null
-        },
-        {
-          "name": "Medium",
-          "dimensions": "8.5\" x 11\"",
-          "price": 25,
-          "stripePriceId": null
-        },
-        {
-          "name": "Large",
-          "dimensions": "11\" x 17\"",
-          "price": 40,
-          "stripePriceId": null
-        }
-      ],
-      "active": false
-    },
-    {
-      "id": "jaws",
-      "category": "things",
-      "title": "Jaws",
-      "image": "images/products/things/Jaws.jpg",
-      "description": [
-        "Placeholder description — replace with real print details."
-      ],
-      "sizes": [
-        {
-          "name": "Small",
-          "dimensions": "5\" x 7\"",
-          "price": 15,
-          "stripePriceId": null
-        },
-        {
-          "name": "Medium",
-          "dimensions": "8.5\" x 11\"",
-          "price": 25,
-          "stripePriceId": null
-        },
-        {
-          "name": "Large",
-          "dimensions": "11\" x 17\"",
-          "price": 40,
-          "stripePriceId": null
-        }
-      ],
-      "active": false
-    },
-    {
-      "id": "lab-notes",
-      "category": "things",
-      "title": "Lab Notes",
-      "image": "images/products/things/Lab Notes.jpg",
-      "description": [
-        "Placeholder description — replace with real print details."
-      ],
-      "sizes": [
-        {
-          "name": "Small",
-          "dimensions": "5\" x 7\"",
-          "price": 15,
-          "stripePriceId": null
-        },
-        {
-          "name": "Medium",
-          "dimensions": "8.5\" x 11\"",
-          "price": 25,
-          "stripePriceId": null
-        },
-        {
-          "name": "Large",
-          "dimensions": "11\" x 17\"",
-          "price": 40,
-          "stripePriceId": null
-        }
-      ],
-      "active": false
-    },
-    {
-      "id": "loose-screws",
-      "category": "things",
-      "title": "Loose Screws",
-      "image": "images/products/things/Loose Screws.jpg",
-      "description": [
-        "Placeholder description — replace with real print details."
-      ],
-      "sizes": [
-        {
-          "name": "Small",
-          "dimensions": "5\" x 7\"",
-          "price": 15,
-          "stripePriceId": null
-        },
-        {
-          "name": "Medium",
-          "dimensions": "8.5\" x 11\"",
-          "price": 25,
-          "stripePriceId": null
-        },
-        {
-          "name": "Large",
-          "dimensions": "11\" x 17\"",
-          "price": 40,
-          "stripePriceId": null
-        }
-      ],
-      "active": false
-    },
-    {
-      "id": "pose",
-      "category": "things",
-      "title": "Pose",
-      "image": "images/products/things/Pose.jpg",
-      "description": [
-        "Placeholder description — replace with real print details."
-      ],
-      "sizes": [
-        {
-          "name": "Small",
-          "dimensions": "5\" x 7\"",
-          "price": 15,
-          "stripePriceId": null
-        },
-        {
-          "name": "Medium",
-          "dimensions": "8.5\" x 11\"",
-          "price": 25,
-          "stripePriceId": null
-        },
-        {
-          "name": "Large",
-          "dimensions": "11\" x 17\"",
-          "price": 40,
-          "stripePriceId": null
-        }
-      ],
-      "active": false
-    },
-    {
       "id": "relics",
       "category": "things",
       "title": "Relics",
@@ -4440,130 +4560,10 @@
       "active": false
     },
     {
-      "id": "tall-tales",
-      "category": "things",
-      "title": "Tall Tales",
-      "image": "images/products/things/Tall Tales.jpg",
-      "description": [
-        "Placeholder description — replace with real print details."
-      ],
-      "sizes": [
-        {
-          "name": "Small",
-          "dimensions": "5\" x 7\"",
-          "price": 15,
-          "stripePriceId": null
-        },
-        {
-          "name": "Medium",
-          "dimensions": "8.5\" x 11\"",
-          "price": 25,
-          "stripePriceId": null
-        },
-        {
-          "name": "Large",
-          "dimensions": "11\" x 17\"",
-          "price": 40,
-          "stripePriceId": null
-        }
-      ],
-      "active": false
-    },
-    {
-      "id": "thank-you",
-      "category": "things",
-      "title": "Thank You",
-      "image": "images/products/things/Thank You.jpg",
-      "description": [
-        "Placeholder description — replace with real print details."
-      ],
-      "sizes": [
-        {
-          "name": "Small",
-          "dimensions": "5\" x 7\"",
-          "price": 15,
-          "stripePriceId": null
-        },
-        {
-          "name": "Medium",
-          "dimensions": "8.5\" x 11\"",
-          "price": 25,
-          "stripePriceId": null
-        },
-        {
-          "name": "Large",
-          "dimensions": "11\" x 17\"",
-          "price": 40,
-          "stripePriceId": null
-        }
-      ],
-      "active": false
-    },
-    {
-      "id": "trace",
-      "category": "things",
-      "title": "Trace",
-      "image": "images/products/things/Trace.jpg",
-      "description": [
-        "Placeholder description — replace with real print details."
-      ],
-      "sizes": [
-        {
-          "name": "Small",
-          "dimensions": "5\" x 7\"",
-          "price": 15,
-          "stripePriceId": null
-        },
-        {
-          "name": "Medium",
-          "dimensions": "8.5\" x 11\"",
-          "price": 25,
-          "stripePriceId": null
-        },
-        {
-          "name": "Large",
-          "dimensions": "11\" x 17\"",
-          "price": 40,
-          "stripePriceId": null
-        }
-      ],
-      "active": false
-    },
-    {
       "id": "two-wheels",
       "category": "things",
       "title": "Two Wheels",
       "image": "images/products/things/Two Wheels.jpg",
-      "description": [
-        "Placeholder description — replace with real print details."
-      ],
-      "sizes": [
-        {
-          "name": "Small",
-          "dimensions": "5\" x 7\"",
-          "price": 15,
-          "stripePriceId": null
-        },
-        {
-          "name": "Medium",
-          "dimensions": "8.5\" x 11\"",
-          "price": 25,
-          "stripePriceId": null
-        },
-        {
-          "name": "Large",
-          "dimensions": "11\" x 17\"",
-          "price": 40,
-          "stripePriceId": null
-        }
-      ],
-      "active": false
-    },
-    {
-      "id": "underwire",
-      "category": "things",
-      "title": "Underwire",
-      "image": "images/products/things/Underwire.jpg",
       "description": [
         "Placeholder description — replace with real print details."
       ],
