@@ -31,6 +31,25 @@ function renderCategoryGallery(catalog) {
     .join('');
 }
 
+function renderPageTitle(catalog) {
+  const container = document.querySelector('[data-page-title]');
+  if (!container) return;
+
+  const params = new URLSearchParams(window.location.search);
+  const slug = params.get('cat');
+  const subSlug = params.get('sub');
+  const category = catalog.categories.find((c) => c.slug === slug);
+
+  if (category && !subSlug && category.heading) {
+    container.innerHTML = `
+      <h1>${category.heading}</h1>
+      ${category.intro ? `<p class="page-intro">${category.intro}</p>` : ''}
+    `;
+  } else {
+    container.innerHTML = '<h1>Prints</h1>';
+  }
+}
+
 function renderCategoryFilters(catalog) {
   const nav = document.querySelector('[data-shop-filters]');
   if (!nav) return;
@@ -207,6 +226,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const catalog = await loadCatalog();
   renderHero(catalog);
   renderCategoryGallery(catalog);
+  renderPageTitle(catalog);
   renderCategoryFilters(catalog);
   renderProductGrid(catalog);
   renderProductDetail(catalog);
