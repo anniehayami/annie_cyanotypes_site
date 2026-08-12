@@ -179,6 +179,7 @@ function renderProductDetail(catalog) {
   root.innerHTML = `
     <div class="product-detail-media">
       <div class="product-detail-image" style="background-image:url('${cssUrl(product.image)}'); background-position: ${imagePosition};"></div>
+      ${product.framedImage ? '<button class="framed-toggle" data-framed-toggle>See it framed</button>' : ''}
     </div>
     <div class="product-detail-info">
       <h1>${product.title}</h1>
@@ -220,6 +221,22 @@ function renderProductDetail(catalog) {
   buyBtn.addEventListener('click', () => {
     if (!buyBtn.disabled) openCheckout(buyBtn.dataset.priceId);
   });
+
+  const framedToggle = root.querySelector('[data-framed-toggle]');
+  if (framedToggle) {
+    const mediaImage = root.querySelector('.product-detail-image');
+    let showingFramed = false;
+    framedToggle.addEventListener('click', () => {
+      showingFramed = !showingFramed;
+      if (showingFramed) {
+        mediaImage.style.backgroundImage = `url('${cssUrl(product.framedImage)}')`;
+        framedToggle.textContent = 'See print only';
+      } else {
+        mediaImage.style.backgroundImage = `url('${cssUrl(product.image)}')`;
+        framedToggle.textContent = 'See it framed';
+      }
+    });
+  }
 }
 
 document.addEventListener('DOMContentLoaded', async () => {

@@ -3639,7 +3639,8 @@
           "stripePriceId": "price_1U2fI2LlWChs0n3HN5BP6qeH"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/places/framed/lighthouse-long-island-sound.jpg"
     },
     {
       "id": "meat-packing-district-nyc",
@@ -3669,7 +3670,8 @@
           "stripePriceId": "price_1U2fI3LlWChs0n3HbDEgHKxv"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/places/framed/meat-packing-district-nyc.jpg"
     },
     {
       "id": "ocks-downtown-tuscon",
@@ -3699,7 +3701,8 @@
           "stripePriceId": "price_1U2fI4LlWChs0n3HiiK0y0A1"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/places/framed/ocks-downtown-tuscon.jpg"
     },
     {
       "id": "scallop-indian-neck-wellfleet",
@@ -3729,7 +3732,8 @@
           "stripePriceId": "price_1U2fI5LlWChs0n3HZe0yulUk"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/places/framed/scallop-indian-neck-wellfleet.jpg"
     },
     {
       "id": "sunset-cruises-wellfleet",
@@ -3759,7 +3763,8 @@
           "stripePriceId": "price_1U2fI6LlWChs0n3HYVVVmIaF"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/places/framed/sunset-cruises-wellfleet.jpg"
     },
     {
       "id": "weathered-car-tuscon",
@@ -3789,7 +3794,8 @@
           "stripePriceId": "price_1U2fI7LlWChs0n3HU2ubxkPj"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/places/framed/weathered-car-tuscon.jpg"
     },
     {
       "id": "boat-planter-wellfleet",
@@ -3819,7 +3825,8 @@
           "stripePriceId": "price_1U2fI8LlWChs0n3HC8sLKyQT"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/places/framed/boat-planter-wellfleet.jpg"
     },
     {
       "id": "flying-lady-tuscon-1",
@@ -3849,7 +3856,8 @@
           "stripePriceId": "price_1U2fI8LlWChs0n3HCcMktb0p"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/places/framed/flying-lady-tuscon-1.jpg"
     },
     {
       "id": "flying-lady-tuscon-2",
@@ -3879,7 +3887,8 @@
           "stripePriceId": "price_1U2fI9LlWChs0n3Hdubfv5Aj"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/places/framed/flying-lady-tuscon-2.jpg"
     },
     {
       "id": "a-way-through-1",
