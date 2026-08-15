@@ -113,15 +113,16 @@ a { color: inherit; text-decoration: none; }
 /* Hero */
 .hero {
   position: relative;
-  aspect-ratio: 3919 / 2700;
-  min-height: 380px;
+  aspect-ratio: 3300 / 1275;
+  min-height: 320px;
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   justify-content: center;
   text-align: center;
   background-size: cover;
-  background-position: top center;
+  background-position: center;
   color: #fff;
+  padding-bottom: 5%;
 }
 
 .hero::after {
@@ -140,7 +141,7 @@ a { color: inherit; text-decoration: none; }
   display: block;
   width: clamp(180px, 24vw, 320px);
   height: auto;
-  margin: 0 auto 8px;
+  margin: 0 auto -20px;
 }
 
 .hero-content h1 {
