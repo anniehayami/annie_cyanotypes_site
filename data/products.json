@@ -3918,7 +3918,8 @@
           "stripePriceId": "price_1U2fIALlWChs0n3HNxqPXPWG"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/a-way-through-1.jpg"
     },
     {
       "id": "loose-screws",
@@ -3948,7 +3949,8 @@
           "stripePriceId": "price_1U2fIBLlWChs0n3H7hsOrPJQ"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/loose-screws.jpg"
     },
     {
       "id": "a-way-through-2",
@@ -3978,7 +3980,8 @@
           "stripePriceId": "price_1U2fICLlWChs0n3Hu0gQRYR9"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/a-way-through-2.jpg"
     },
     {
       "id": "pepper",
@@ -4008,7 +4011,8 @@
           "stripePriceId": "price_1U2fIDLlWChs0n3HkFdfiBXP"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/pepper.jpg"
     },
     {
       "id": "seasoned",
@@ -4038,7 +4042,8 @@
           "stripePriceId": "price_1U2fIELlWChs0n3Hc3ODnt4a"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/seasoned.jpg"
     },
     {
       "id": "salt",
@@ -4068,7 +4073,8 @@
           "stripePriceId": "price_1U2fIELlWChs0n3HPo0t1Vtq"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/salt.jpg"
     },
     {
       "id": "lab-notes",
@@ -4098,7 +4104,8 @@
           "stripePriceId": "price_1U2fIFLlWChs0n3HxiHZ0BUQ"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/lab-notes.jpg"
     },
     {
       "id": "trace",
@@ -4128,7 +4135,8 @@
           "stripePriceId": "price_1U2fIGLlWChs0n3HBrtfPhsq"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/trace.jpg"
     },
     {
       "id": "gloves",
@@ -4158,7 +4166,8 @@
           "stripePriceId": "price_1U2fIHLlWChs0n3HjmvQTqe1"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/gloves.jpg"
     },
     {
       "id": "underwire",
@@ -4188,7 +4197,8 @@
           "stripePriceId": "price_1U2fIILlWChs0n3H9poKnkn9"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/underwire.jpg"
     },
     {
       "id": "pose",
@@ -4218,7 +4228,8 @@
           "stripePriceId": "price_1U2fIJLlWChs0n3HcD5QNKqU"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/pose.jpg"
     },
     {
       "id": "thank-you",
@@ -4248,7 +4259,8 @@
           "stripePriceId": "price_1U2fIJLlWChs0n3HW6aGpytg"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/thank-you.jpg"
     },
     {
       "id": "interior-landscape",
@@ -4278,7 +4290,8 @@
           "stripePriceId": "price_1U2fIKLlWChs0n3HXgh7SXPh"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/interior-landscape.jpg"
     },
     {
       "id": "jaws",
@@ -4308,7 +4321,8 @@
           "stripePriceId": "price_1U2fILLlWChs0n3HU9qHqCN3"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/jaws.jpg"
     },
     {
       "id": "tall-tales",
@@ -4338,7 +4352,8 @@
           "stripePriceId": "price_1U2fIMLlWChs0n3HEMILsMFE"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/tall-tales.jpg"
     },
     {
       "id": "icicles-1",
@@ -4368,7 +4383,8 @@
           "stripePriceId": "price_1U2fINLlWChs0n3HaDTpLNLc"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/icicles-1.jpg"
     },
     {
       "id": "icicles-2",
@@ -4398,7 +4414,8 @@
           "stripePriceId": "price_1U2fIOLlWChs0n3HMzYY6o0A"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/icicles-2.jpg"
     },
     {
       "id": "icicles-3",
@@ -4428,7 +4445,8 @@
           "stripePriceId": "price_1U2fIOLlWChs0n3HdBrZo1jw"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/icicles-3.jpg"
     },
     {
       "id": "contained",
@@ -4458,7 +4476,8 @@
           "stripePriceId": "price_1U2fIPLlWChs0n3HGeChXRze"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/contained.jpg"
     },
     {
       "id": "entangled",
@@ -4488,7 +4507,8 @@
           "stripePriceId": "price_1U2fIQLlWChs0n3HDwKrnoxe"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/entangled.jpg"
     },
     {
       "id": "fold",
@@ -4518,7 +4538,8 @@
           "stripePriceId": "price_1U2fIRLlWChs0n3HRBbS4azT"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/fold.jpg"
     },
     {
       "id": "from-above",
@@ -4548,7 +4569,8 @@
           "stripePriceId": "price_1U2fISLlWChs0n3HCTYwvEVA"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/from-above.jpg"
     },
     {
       "id": "relics",
@@ -4578,7 +4600,8 @@
           "stripePriceId": "price_1U2fITLlWChs0n3H9zsiymTE"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/relics.jpg"
     },
     {
       "id": "two-wheels",
@@ -4608,7 +4631,8 @@
           "stripePriceId": "price_1U2fITLlWChs0n3He3ZH6oxY"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/things/framed/two-wheels.jpg"
     }
   ]
 }
