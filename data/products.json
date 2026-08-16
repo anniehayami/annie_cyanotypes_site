@@ -129,7 +129,8 @@
           "stripePriceId": "price_1U2fGTLlWChs0n3HerRqbZPI"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/toward-the-surface.jpg"
     },
     {
       "id": "encounter",
@@ -159,7 +160,8 @@
           "stripePriceId": "price_1U2fGULlWChs0n3HEMJZT4sm"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/encounter.jpg"
     },
     {
       "id": "climb",
@@ -189,7 +191,8 @@
           "stripePriceId": "price_1U2fGVLlWChs0n3H9VeDXdqi"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/climb.jpg"
     },
     {
       "id": "the-calm",
@@ -219,7 +222,8 @@
           "stripePriceId": "price_1U2fGWLlWChs0n3HxfLLoraM"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/the-calm.jpg"
     },
     {
       "id": "tide-pool",
@@ -249,7 +253,8 @@
           "stripePriceId": "price_1U2fGXLlWChs0n3HLRRpXAQt"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/tide-pool.jpg"
     },
     {
       "id": "scales-and-stones",
@@ -279,7 +284,8 @@
           "stripePriceId": "price_1U2fGYLlWChs0n3HgdcvmwfC"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/scales-and-stones.jpg"
     },
     {
       "id": "sentinel",
@@ -309,7 +315,8 @@
           "stripePriceId": "price_1U2fGYLlWChs0n3Hhu881zL1"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/sentinel.jpg"
     },
     {
       "id": "preserved",
@@ -339,7 +346,8 @@
           "stripePriceId": "price_1U2fGZLlWChs0n3HDk0g2UcS"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/preserved.jpg"
     },
     {
       "id": "drift",
@@ -369,7 +377,8 @@
           "stripePriceId": "price_1U2fGaLlWChs0n3HainDJ77V"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/drift.jpg"
     },
     {
       "id": "shedding",
@@ -399,7 +408,8 @@
           "stripePriceId": "price_1U2fGbLlWChs0n3HqNZ9RuOX"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/shedding.jpg"
     },
     {
       "id": "morning-watch",
@@ -429,7 +439,8 @@
           "stripePriceId": "price_1U2fGcLlWChs0n3HOIP5hT8U"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/morning-watch.jpg"
     },
     {
       "id": "becoming",
@@ -459,7 +470,8 @@
           "stripePriceId": "price_1U2fGcLlWChs0n3HoOpy8j8T"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/becoming.jpg"
     },
     {
       "id": "raven",
@@ -489,7 +501,8 @@
           "stripePriceId": "price_1U2fGdLlWChs0n3HT4OuWfxx"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/raven.jpg"
     },
     {
       "id": "suspension",
@@ -519,7 +532,8 @@
           "stripePriceId": "price_1U2fGeLlWChs0n3H0IdHgfrB"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/suspension.jpg"
     },
     {
       "id": "migration",
@@ -550,7 +564,8 @@
         }
       ],
       "active": true,
-      "imagePosition": "top"
+      "imagePosition": "top",
+      "framedImage": "images/products/animals/framed/migration.jpg"
     },
     {
       "id": "tidal-remains",
@@ -580,7 +595,8 @@
           "stripePriceId": "price_1U2fGgLlWChs0n3HACEe9yV0"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/tidal-remains.jpg"
     },
     {
       "id": "first-light",
@@ -610,7 +626,8 @@
           "stripePriceId": "price_1U2fGhLlWChs0n3H39O2AQ3n"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/first-light.jpg"
     },
     {
       "id": "below-the-surface",
@@ -640,7 +657,8 @@
           "stripePriceId": "price_1U2fGiLlWChs0n3H3dK9f4j0"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/below-the-surface.jpg"
     },
     {
       "id": "reach",
@@ -670,7 +688,8 @@
           "stripePriceId": "price_1U2fGjLlWChs0n3HLJrUUSs5"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/reach.jpg"
     },
     {
       "id": "night-visitor",
@@ -700,7 +719,8 @@
           "stripePriceId": "price_1U2fGkLlWChs0n3Hi2tgI3TU"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/night-visitor.jpg"
     },
     {
       "id": "emerge",
@@ -730,7 +750,8 @@
           "stripePriceId": "price_1U2fGkLlWChs0n3HKg4L74Ve"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/emerge.jpg"
     },
     {
       "id": "convergence",
@@ -760,7 +781,8 @@
           "stripePriceId": "price_1U2fGlLlWChs0n3Hw5sSuxH4"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/convergence.jpg"
     },
     {
       "id": "the-crossing",
@@ -790,7 +812,8 @@
           "stripePriceId": "price_1U2fGmLlWChs0n3HdrHIY61e"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/the-crossing.jpg"
     },
     {
       "id": "drift-2",
@@ -820,7 +843,8 @@
           "stripePriceId": "price_1U2fGnLlWChs0n3Hr052wxAv"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/animals/framed/drift-2.jpg"
     },
     {
       "id": "angel-wing-begonia",
@@ -851,7 +875,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/angel-wing-begonia.jpg"
     },
     {
       "id": "brookes-poppy",
@@ -882,7 +907,8 @@
         }
       ],
       "active": true,
-      "subcategory": "poppies"
+      "subcategory": "poppies",
+      "framedImage": "images/products/botanicals/framed/brookes-poppy.jpg"
     },
     {
       "id": "california-poppies",
@@ -913,7 +939,8 @@
         }
       ],
       "active": true,
-      "subcategory": "poppies"
+      "subcategory": "poppies",
+      "framedImage": "images/products/botanicals/framed/california-poppies.jpg"
     },
     {
       "id": "cherry-blossom-petals",
@@ -944,7 +971,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/cherry-blossom-petals.jpg"
     },
     {
       "id": "cherry-blossoms-wet-cyanotype",
@@ -975,7 +1003,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/cherry-blossoms-wet-cyanotype.jpg"
     },
     {
       "id": "crimson-iris",
@@ -1006,7 +1035,8 @@
         }
       ],
       "active": true,
-      "subcategory": "iris"
+      "subcategory": "iris",
+      "framedImage": "images/products/botanicals/framed/crimson-iris.jpg"
     },
     {
       "id": "crimson-poppies",
@@ -1037,7 +1067,8 @@
         }
       ],
       "active": true,
-      "subcategory": "poppies"
+      "subcategory": "poppies",
+      "framedImage": "images/products/botanicals/framed/crimson-poppies.jpg"
     },
     {
       "id": "daffodil-1",
@@ -1068,7 +1099,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/daffodil-1.jpg"
     },
     {
       "id": "dahlia-study-1",
@@ -1099,7 +1131,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/dahlia-study-1.jpg"
     },
     {
       "id": "dahlia",
@@ -1130,7 +1163,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/dahlia.jpg"
     },
     {
       "id": "dandelion-study-1",
@@ -1161,7 +1195,8 @@
         }
       ],
       "active": true,
-      "subcategory": "dandelion"
+      "subcategory": "dandelion",
+      "framedImage": "images/products/botanicals/framed/dandelion-study-1.jpg"
     },
     {
       "id": "dandelion-study-2",
@@ -1192,7 +1227,8 @@
         }
       ],
       "active": true,
-      "subcategory": "dandelion"
+      "subcategory": "dandelion",
+      "framedImage": "images/products/botanicals/framed/dandelion-study-2.jpg"
     },
     {
       "id": "dandelion-study-3",
@@ -1223,7 +1259,8 @@
         }
       ],
       "active": true,
-      "subcategory": "dandelion"
+      "subcategory": "dandelion",
+      "framedImage": "images/products/botanicals/framed/dandelion-study-3.jpg"
     },
     {
       "id": "dandelion-study-4",
@@ -1254,7 +1291,8 @@
         }
       ],
       "active": true,
-      "subcategory": "dandelion"
+      "subcategory": "dandelion",
+      "framedImage": "images/products/botanicals/framed/dandelion-study-4.jpg"
     },
     {
       "id": "dandelion-study-5",
@@ -1285,7 +1323,8 @@
         }
       ],
       "active": true,
-      "subcategory": "dandelion"
+      "subcategory": "dandelion",
+      "framedImage": "images/products/botanicals/framed/dandelion-study-5.jpg"
     },
     {
       "id": "dandelion-study-6",
@@ -1316,7 +1355,8 @@
         }
       ],
       "active": true,
-      "subcategory": "dandelion"
+      "subcategory": "dandelion",
+      "framedImage": "images/products/botanicals/framed/dandelion-study-6.jpg"
     },
     {
       "id": "garden-in-a-leaf",
@@ -1347,7 +1387,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/garden-in-a-leaf.jpg"
     },
     {
       "id": "iris-2",
@@ -1378,7 +1419,8 @@
         }
       ],
       "active": true,
-      "subcategory": "iris"
+      "subcategory": "iris",
+      "framedImage": "images/products/botanicals/framed/iris-2.jpg"
     },
     {
       "id": "iris",
@@ -1409,7 +1451,8 @@
         }
       ],
       "active": true,
-      "subcategory": "iris"
+      "subcategory": "iris",
+      "framedImage": "images/products/botanicals/framed/iris.jpg"
     },
     {
       "id": "lavender-in-beach-glass-bottle",
@@ -1440,7 +1483,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/lavender-in-beach-glass-bottle.jpg"
     },
     {
       "id": "lily",
@@ -1471,7 +1515,8 @@
         }
       ],
       "active": true,
-      "subcategory": "lillies"
+      "subcategory": "lillies",
+      "framedImage": "images/products/botanicals/framed/lily.jpg"
     },
     {
       "id": "magnolia-study-1",
@@ -1502,7 +1547,8 @@
         }
       ],
       "active": true,
-      "subcategory": "magnolias"
+      "subcategory": "magnolias",
+      "framedImage": "images/products/botanicals/framed/magnolia-study-1.jpg"
     },
     {
       "id": "magnolia-study-2",
@@ -1533,7 +1579,8 @@
         }
       ],
       "active": true,
-      "subcategory": "magnolias"
+      "subcategory": "magnolias",
+      "framedImage": "images/products/botanicals/framed/magnolia-study-2.jpg"
     },
     {
       "id": "magnolia-study-3",
@@ -1564,7 +1611,8 @@
         }
       ],
       "active": true,
-      "subcategory": "magnolias"
+      "subcategory": "magnolias",
+      "framedImage": "images/products/botanicals/framed/magnolia-study-3.jpg"
     },
     {
       "id": "magnolia-study-4",
@@ -1595,7 +1643,8 @@
         }
       ],
       "active": true,
-      "subcategory": "magnolias"
+      "subcategory": "magnolias",
+      "framedImage": "images/products/botanicals/framed/magnolia-study-4.jpg"
     },
     {
       "id": "magnolia-study-5",
@@ -1626,7 +1675,8 @@
         }
       ],
       "active": true,
-      "subcategory": "magnolias"
+      "subcategory": "magnolias",
+      "framedImage": "images/products/botanicals/framed/magnolia-study-5.jpg"
     },
     {
       "id": "magnolia-study-6",
@@ -1657,7 +1707,8 @@
         }
       ],
       "active": true,
-      "subcategory": "magnolias"
+      "subcategory": "magnolias",
+      "framedImage": "images/products/botanicals/framed/magnolia-study-6.jpg"
     },
     {
       "id": "magnolia-study-7",
@@ -1688,7 +1739,8 @@
         }
       ],
       "active": true,
-      "subcategory": "magnolias"
+      "subcategory": "magnolias",
+      "framedImage": "images/products/botanicals/framed/magnolia-study-7.jpg"
     },
     {
       "id": "mock-orange-wet-cyanotype",
@@ -1719,7 +1771,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/mock-orange-wet-cyanotype.jpg"
     },
     {
       "id": "moms-hibiscus-1",
@@ -1750,7 +1803,8 @@
         }
       ],
       "active": true,
-      "subcategory": "hibiscus"
+      "subcategory": "hibiscus",
+      "framedImage": "images/products/botanicals/framed/moms-hibiscus-1.jpg"
     },
     {
       "id": "moms-hibiscus-2",
@@ -1781,7 +1835,8 @@
         }
       ],
       "active": true,
-      "subcategory": "hibiscus"
+      "subcategory": "hibiscus",
+      "framedImage": "images/products/botanicals/framed/moms-hibiscus-2.jpg"
     },
     {
       "id": "money-plant-study-1",
@@ -1812,7 +1867,8 @@
         }
       ],
       "active": true,
-      "subcategory": "money-plant"
+      "subcategory": "money-plant",
+      "framedImage": "images/products/botanicals/framed/money-plant-study-1.jpg"
     },
     {
       "id": "money-plant-study-2",
@@ -1843,7 +1899,8 @@
         }
       ],
       "active": true,
-      "subcategory": "money-plant"
+      "subcategory": "money-plant",
+      "framedImage": "images/products/botanicals/framed/money-plant-study-2.jpg"
     },
     {
       "id": "money-plant-study-3",
@@ -1874,7 +1931,8 @@
         }
       ],
       "active": true,
-      "subcategory": "money-plant"
+      "subcategory": "money-plant",
+      "framedImage": "images/products/botanicals/framed/money-plant-study-3.jpg"
     },
     {
       "id": "orchid-net",
@@ -1905,7 +1963,8 @@
         }
       ],
       "active": true,
-      "subcategory": "orchids"
+      "subcategory": "orchids",
+      "framedImage": "images/products/botanicals/framed/orchid-net.jpg"
     },
     {
       "id": "orchid-trail",
@@ -1936,7 +1995,8 @@
         }
       ],
       "active": true,
-      "subcategory": "orchids"
+      "subcategory": "orchids",
+      "framedImage": "images/products/botanicals/framed/orchid-trail.jpg"
     },
     {
       "id": "poppy-study-1",
@@ -1967,7 +2027,8 @@
         }
       ],
       "active": true,
-      "subcategory": "poppies"
+      "subcategory": "poppies",
+      "framedImage": "images/products/botanicals/framed/poppy-study-1.jpg"
     },
     {
       "id": "poppy-study-2",
@@ -1998,7 +2059,8 @@
         }
       ],
       "active": true,
-      "subcategory": "poppies"
+      "subcategory": "poppies",
+      "framedImage": "images/products/botanicals/framed/poppy-study-2.jpg"
     },
     {
       "id": "red-money-plant",
@@ -2029,7 +2091,8 @@
         }
       ],
       "active": true,
-      "subcategory": "money-plant"
+      "subcategory": "money-plant",
+      "framedImage": "images/products/botanicals/framed/red-money-plant.jpg"
     },
     {
       "id": "rose-of-sharon-mandala",
@@ -2060,7 +2123,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/rose-of-sharon-mandala.jpg"
     },
     {
       "id": "sea-tree-1",
@@ -2091,7 +2155,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/sea-tree-1.jpg"
     },
     {
       "id": "sea-tree-2",
@@ -2122,7 +2187,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/sea-tree-2.jpg"
     },
     {
       "id": "shadow-study-1",
@@ -2153,7 +2219,8 @@
         }
       ],
       "active": true,
-      "subcategory": "shadow-studies"
+      "subcategory": "shadow-studies",
+      "framedImage": "images/products/botanicals/framed/shadow-study-1.jpg"
     },
     {
       "id": "shadow-study-2",
@@ -2184,7 +2251,8 @@
         }
       ],
       "active": true,
-      "subcategory": "shadow-studies"
+      "subcategory": "shadow-studies",
+      "framedImage": "images/products/botanicals/framed/shadow-study-2.jpg"
     },
     {
       "id": "shadow-study-3",
@@ -2215,7 +2283,8 @@
         }
       ],
       "active": true,
-      "subcategory": "shadow-studies"
+      "subcategory": "shadow-studies",
+      "framedImage": "images/products/botanicals/framed/shadow-study-3.jpg"
     },
     {
       "id": "shadow-study-4",
@@ -2246,7 +2315,8 @@
         }
       ],
       "active": true,
-      "subcategory": "shadow-studies"
+      "subcategory": "shadow-studies",
+      "framedImage": "images/products/botanicals/framed/shadow-study-4.jpg"
     },
     {
       "id": "siberian-iris",
@@ -2277,7 +2347,8 @@
         }
       ],
       "active": true,
-      "subcategory": "iris"
+      "subcategory": "iris",
+      "framedImage": "images/products/botanicals/framed/siberian-iris.jpg"
     },
     {
       "id": "snow-drops",
@@ -2308,7 +2379,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/snow-drops.jpg"
     },
     {
       "id": "star-gazer-lily-2",
@@ -2339,7 +2411,8 @@
         }
       ],
       "active": true,
-      "subcategory": "lillies"
+      "subcategory": "lillies",
+      "framedImage": "images/products/botanicals/framed/star-gazer-lily-2.jpg"
     },
     {
       "id": "star-gazer-lily",
@@ -2370,7 +2443,8 @@
         }
       ],
       "active": true,
-      "subcategory": "lillies"
+      "subcategory": "lillies",
+      "framedImage": "images/products/botanicals/framed/star-gazer-lily.jpg"
     },
     {
       "id": "tangled-buttercups",
@@ -2401,7 +2475,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/tangled-buttercups.jpg"
     },
     {
       "id": "tilted-hydrangeas",
@@ -2432,7 +2507,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/tilted-hydrangeas.jpg"
     },
     {
       "id": "tulip-and-fern",
@@ -2463,7 +2539,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/tulip-and-fern.jpg"
     },
     {
       "id": "tulips",
@@ -2494,7 +2571,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/tulips.jpg"
     },
     {
       "id": "tuscon-study-1",
@@ -2525,7 +2603,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/tuscon-study-1.jpg"
     },
     {
       "id": "tuscon-study-2",
@@ -2556,7 +2635,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/tuscon-study-2.jpg"
     },
     {
       "id": "water-lily-study-1",
@@ -2587,7 +2667,8 @@
         }
       ],
       "active": true,
-      "subcategory": "lillies"
+      "subcategory": "lillies",
+      "framedImage": "images/products/botanicals/framed/water-lily-study-1.jpg"
     },
     {
       "id": "wildflower-bouquet",
@@ -2618,7 +2699,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/wildflower-bouquet.jpg"
     },
     {
       "id": "hydrangea-study-1",
@@ -2649,7 +2731,8 @@
         }
       ],
       "active": true,
-      "subcategory": "assorted-botanicals"
+      "subcategory": "assorted-botanicals",
+      "framedImage": "images/products/botanicals/framed/hydrangea-study-1.jpg"
     },
     {
       "id": "carry",
@@ -2679,7 +2762,8 @@
           "stripePriceId": "price_1U2fHbLlWChs0n3Hd3ZdzLWj"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/people/framed/carry.jpg"
     },
     {
       "id": "chance-of-feathers",
@@ -2709,7 +2793,8 @@
           "stripePriceId": "price_1U2fHcLlWChs0n3HMfqE6un2"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/people/framed/chance-of-feathers.jpg"
     },
     {
       "id": "curls",
@@ -2739,7 +2824,8 @@
           "stripePriceId": "price_1U2fHdLlWChs0n3HPkY9zIzB"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/people/framed/curls.jpg"
     },
     {
       "id": "evidence",
@@ -2769,7 +2855,8 @@
           "stripePriceId": "price_1U2fHeLlWChs0n3HyD8k4arc"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/people/framed/evidence.jpg"
     },
     {
       "id": "inward",
@@ -2799,7 +2886,8 @@
           "stripePriceId": "price_1U2fHeLlWChs0n3HCUjNn0PE"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/people/framed/inward.jpg"
     },
     {
       "id": "mirrored-self-portrait",
@@ -2829,7 +2917,8 @@
           "stripePriceId": "price_1U2fHfLlWChs0n3HmQ5GPFcL"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/people/framed/mirrored-self-portrait.jpg"
     },
     {
       "id": "offering",
@@ -2859,7 +2948,8 @@
           "stripePriceId": "price_1U2fHgLlWChs0n3HH5cCfoHA"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/people/framed/offering.jpg"
     },
     {
       "id": "veil",
@@ -2889,7 +2979,8 @@
           "stripePriceId": "price_1U2fHhLlWChs0n3HSVyX7mB6"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/people/framed/veil.jpg"
     },
     {
       "id": "wild-crown",
@@ -2919,7 +3010,8 @@
           "stripePriceId": "price_1U2fHiLlWChs0n3Hv9lkTlXd"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/people/framed/wild-crown.jpg"
     },
     {
       "id": "bama-in-gold",
@@ -2949,7 +3041,8 @@
           "stripePriceId": "price_1U2fHjLlWChs0n3HUfOE1Gip"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/bama-in-gold.jpg"
     },
     {
       "id": "california-poppies-mixed-media",
@@ -2979,7 +3072,8 @@
           "stripePriceId": "price_1U2fHkLlWChs0n3Heeg43DeS"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/california-poppies-mixed-media.jpg"
     },
     {
       "id": "climbing",
@@ -3009,7 +3103,8 @@
           "stripePriceId": "price_1U2fHkLlWChs0n3H4CnLMtap"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/climbing.jpg"
     },
     {
       "id": "ferns",
@@ -3039,7 +3134,8 @@
           "stripePriceId": "price_1U2fHlLlWChs0n3HTg7GgWwR"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/ferns.jpg"
     },
     {
       "id": "gold-magnolia",
@@ -3069,7 +3165,8 @@
           "stripePriceId": "price_1U2fHmLlWChs0n3H34Fcqt31"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/gold-magnolia.jpg"
     },
     {
       "id": "golden-flowers",
@@ -3099,7 +3196,8 @@
           "stripePriceId": "price_1U2fHnLlWChs0n3HskCtX0YU"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/golden-flowers.jpg"
     },
     {
       "id": "gummy-bear-study-1",
@@ -3129,7 +3227,8 @@
           "stripePriceId": "price_1U2fHoLlWChs0n3HFVI6JCsb"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/gummy-bear-study-1.jpg"
     },
     {
       "id": "gummy-bear-study-2",
@@ -3159,7 +3258,8 @@
           "stripePriceId": "price_1U2fHpLlWChs0n3HJRgavXqW"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/gummy-bear-study-2.jpg"
     },
     {
       "id": "happiness-slightly-deflated",
@@ -3189,7 +3289,8 @@
           "stripePriceId": "price_1U2fHqLlWChs0n3HUAorpMY8"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/happiness-slightly-deflated.jpg"
     },
     {
       "id": "line-poppies",
@@ -3219,7 +3320,8 @@
           "stripePriceId": "price_1U2fHrLlWChs0n3HMRz2Nb85"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/line-poppies.jpg"
     },
     {
       "id": "midnight-garden",
@@ -3249,7 +3351,8 @@
           "stripePriceId": "price_1U2fHrLlWChs0n3HLACACbLi"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/midnight-garden.jpg"
     },
     {
       "id": "night-flowers",
@@ -3279,7 +3382,8 @@
           "stripePriceId": "price_1U2fHsLlWChs0n3HRIfWsztf"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/night-flowers.jpg"
     },
     {
       "id": "night-garden-1",
@@ -3309,7 +3413,8 @@
           "stripePriceId": "price_1U2fHtLlWChs0n3H1v2mjt9K"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/night-garden-1.jpg"
     },
     {
       "id": "night-garden-2",
@@ -3339,7 +3444,8 @@
           "stripePriceId": "price_1U2fHuLlWChs0n3HWCDqXpOq"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/night-garden-2.jpg"
     },
     {
       "id": "night-garden-3",
@@ -3369,7 +3475,8 @@
           "stripePriceId": "price_1U2fHvLlWChs0n3HSkAj2qU1"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/night-garden-3.jpg"
     },
     {
       "id": "night-garden-4",
@@ -3399,7 +3506,8 @@
           "stripePriceId": "price_1U2fHwLlWChs0n3H1JAOkxcx"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/night-garden-4.jpg"
     },
     {
       "id": "scarlett-poppies",
@@ -3429,7 +3537,8 @@
           "stripePriceId": "price_1U2fHwLlWChs0n3Hzo47BEeV"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/scarlett-poppies.jpg"
     },
     {
       "id": "shades",
@@ -3459,7 +3568,8 @@
           "stripePriceId": "price_1U2fHxLlWChs0n3HnDBspFmP"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/shades.jpg"
     },
     {
       "id": "twisted",
@@ -3489,7 +3599,8 @@
           "stripePriceId": "price_1U2fHyLlWChs0n3Hz80rHBne"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/twisted.jpg"
     },
     {
       "id": "unspooling-1",
@@ -3519,7 +3630,8 @@
           "stripePriceId": "price_1U2fHzLlWChs0n3H4YSPVOIu"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/unspooling-1.jpg"
     },
     {
       "id": "unspooling-2",
@@ -3549,7 +3661,8 @@
           "stripePriceId": "price_1U2fI0LlWChs0n3HYlt2Uyow"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/unspooling-2.jpg"
     },
     {
       "id": "vine",
@@ -3579,7 +3692,8 @@
           "stripePriceId": "price_1U2fI1LlWChs0n3HNkVEEsDw"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/vine.jpg"
     },
     {
       "id": "watercolor-poppies",
@@ -3609,7 +3723,8 @@
           "stripePriceId": "price_1U2fI2LlWChs0n3HpDZGsuAg"
         }
       ],
-      "active": true
+      "active": true,
+      "framedImage": "images/products/mixed-media/framed/watercolor-poppies.jpg"
     },
     {
       "id": "lighthouse-long-island-sound",
