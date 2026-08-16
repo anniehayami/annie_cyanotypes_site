@@ -8,7 +8,7 @@
     {
       "slug": "botanicals",
       "name": "Botanicals",
-      "image": "images/botanicals.jpg",
+      "image": "images/botanicals-sq.jpg",
       "subcategories": [
         {
           "slug": "poppies",
@@ -67,35 +67,35 @@
     {
       "slug": "animals",
       "name": "Animals",
-      "image": "images/animals.jpg",
+      "image": "images/animals-sq.jpg",
       "heading": "Animal Prints",
       "intro": "Encounters with animals are often unexpected, joyful moments in nature. This section moves between close study (owls that choose to nest and raise their owlets in my backyard, and jellyfish in the New England Aquarium) and chance encounters, like a fox, a snail, or an iguana crossing my path. Some prints come from patient observation, others from a moment I couldn't have planned for."
     },
     {
       "slug": "things",
       "name": "Things",
-      "image": "images/things.jpg",
+      "image": "images/things-sq.jpg",
       "heading": "Things Prints",
       "intro": "More than anything, I want my work to elevate everyday objects into art. It could be anything that catches my attention, from my dad's screwdrivers with transparent handles to icicles hanging off my house in the dead of winter. There is so much to see in everyday life. I just try to capture it in a way that lets others see the little moments I do."
     },
     {
       "slug": "places",
       "name": "Places",
-      "image": "images/places.jpg",
+      "image": "images/places-sq.jpg",
       "heading": "Places Prints",
       "intro": "From my beloved Wellfleet to an abandoned car yard in Tucson, I am inspired by the places I visit and the new things I see there. Places new and familiar push me to notice the beauty around me, and to try to capture it."
     },
     {
       "slug": "people",
       "name": "People",
-      "image": "images/people.jpg",
+      "image": "images/people-sq.jpg",
       "heading": "People Prints",
       "intro": "One of my very first artistic obsessions (like, when I was 18 months old and drawing scribbles) was the self-portrait. We all love people watching, and that's basically what I do, just in a more lasting way."
     },
     {
       "slug": "mixed-media",
       "name": "Mixed Media",
-      "image": "images/mixed-media.jpg",
+      "image": "images/mixed-media-sq.jpg",
       "heading": "Mixed Media Prints",
       "intro": "Sometimes even I think just blue isn't enough. I'll add a splash of color, tone a print to a deep brown, or add gold as a counterbalance to all the blue. My mixed media prints are born from a constant desire to experiment and play."
     }

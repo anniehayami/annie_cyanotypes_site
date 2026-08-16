@@ -174,7 +174,7 @@ a { color: inherit; text-decoration: none; }
 /* Category gallery */
 .category-gallery {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   column-gap: 24px;
   row-gap: 72px;
   max-width: 1400px;
@@ -188,8 +188,9 @@ a { color: inherit; text-decoration: none; }
 
 .category-tile-image {
   display: block;
-  aspect-ratio: 3 / 4;
+  aspect-ratio: 1 / 1;
   overflow: hidden;
+  background-color: #fff;
   background-size: cover;
   background-position: center;
   transition: opacity 0.4s ease;
@@ -610,6 +611,7 @@ a { color: inherit; text-decoration: none; }
 /* Mobile */
 @media (max-width: 860px) {
   .product-grid { grid-template-columns: repeat(2, 1fr); }
+  .category-gallery { grid-template-columns: repeat(2, 1fr); }
   .about-inner { grid-template-columns: 1fr; gap: 32px; }
 }
 

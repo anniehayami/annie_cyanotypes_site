@@ -1,5 +1,5 @@
 async function loadCatalog() {
-  const res = await fetch('/data/products.json');
+  const res = await fetch('/data/products.json', { cache: 'no-cache' });
   return res.json();
 }
 
