@@ -154,6 +154,7 @@ a { color: inherit; text-decoration: none; }
 /* Hero */
 .hero {
   position: relative;
+  width: 100%;
   aspect-ratio: 3300 / 1275;
   min-height: 320px;
   display: flex;
