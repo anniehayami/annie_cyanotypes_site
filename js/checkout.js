@@ -8,17 +8,17 @@ function getStripe() {
   return stripeInstance;
 }
 
-async function openCheckout(priceId) {
+async function mountCheckout(endpoint, body) {
   const modal = document.getElementById('checkout-modal');
   const container = document.getElementById('checkout-container');
   container.innerHTML = '<p class="checkout-loading">Loading checkout&hellip;</p>';
   modal.classList.add('open');
 
   try {
-    const res = await fetch('/.netlify/functions/create-checkout-session', {
+    const res = await fetch(endpoint, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ priceId }),
+      body: JSON.stringify(body),
     });
     const data = await res.json();
     if (!res.ok) throw new Error(data.error || 'Checkout could not be started.');
@@ -29,6 +29,14 @@ async function openCheckout(priceId) {
   } catch (err) {
     container.innerHTML = `<p class="checkout-loading">${err.message}</p>`;
   }
+}
+
+async function openCheckout(priceId) {
+  await mountCheckout('/.netlify/functions/create-checkout-session', { priceId });
+}
+
+async function openBogoCheckout(priceIds, code) {
+  await mountCheckout('/.netlify/functions/create-bogo-checkout-session', { priceIds, code });
 }
 
 function closeCheckout() {

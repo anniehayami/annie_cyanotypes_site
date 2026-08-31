@@ -201,6 +201,7 @@ function renderProductDetail(catalog) {
           .join('')}
       </div>
       <button class="btn" data-price-id="">Add to Cart</button>
+      ${typeof isBogoUnlocked === 'function' && isBogoUnlocked() ? '<button type="button" class="btn btn-outline bogo-add-btn" data-bogo-add>&#127873; Add to Gift Set</button>' : ''}
     </div>
   `;
 
@@ -221,6 +222,27 @@ function renderProductDetail(catalog) {
   buyBtn.addEventListener('click', () => {
     if (!buyBtn.disabled) openCheckout(buyBtn.dataset.priceId);
   });
+
+  const bogoBtn = root.querySelector('[data-bogo-add]');
+  if (bogoBtn) {
+    bogoBtn.addEventListener('click', () => {
+      const selected = product.sizes[sizeRadios.findIndex((r) => r.checked)];
+      if (!selected.stripePriceId) return;
+      const result = addToBogoCart({
+        priceId: selected.stripePriceId,
+        title: product.title,
+        sizeName: selected.name,
+        price: selected.price,
+      });
+      if (!result.ok) {
+        alert('Your gift set already has 2 prints. Visit the gift set page to check out or remove one.');
+        return;
+      }
+      renderBogoWidget();
+      bogoBtn.textContent = 'Added to Gift Set ✓';
+      bogoBtn.disabled = true;
+    });
+  }
 
   const framedToggle = root.querySelector('[data-framed-toggle]');
   if (framedToggle) {

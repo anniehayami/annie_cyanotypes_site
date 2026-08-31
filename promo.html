@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Print &mdash; Annie's Cyanotypes</title>
+  <title>Gift Code &mdash; Annie's Cyanotypes</title>
   <link rel="stylesheet" href="css/style.css?v=7" />
 </head>
 <body>
@@ -28,12 +28,23 @@
     </div>
   </header>
 
-  <div class="container product-breadcrumb-row">
-    <nav class="breadcrumb" data-breadcrumb></nav>
-    <a class="next-link" data-next-link hidden>Next &rsaquo;</a>
-  </div>
+  <section class="section section-narrow promo-entry" data-promo-entry>
+    <h2>Have a gift code?</h2>
+    <p>Enter it below to unlock a limited-time offer.</p>
+    <form class="promo-form" data-promo-form>
+      <input type="text" data-promo-input placeholder="Enter code" autocomplete="off" />
+      <button type="submit" class="btn" style="background:#1a1a1a;color:#fff;">Apply</button>
+    </form>
+    <p class="promo-message" data-promo-message></p>
+  </section>
 
-  <div class="container product-detail" data-product-detail></div>
+  <section class="section section-narrow promo-cart" data-promo-cart hidden>
+    <h2>Your Gift Set</h2>
+    <p>Buy one print, get a second free &mdash; the cheaper of your two picks is on the house. Pick two prints from the shop, then come back here to check out.</p>
+    <a href="category.html" class="btn btn-outline">Shop Prints</a>
+    <div class="promo-cart-items" data-promo-cart-items></div>
+    <button type="button" class="btn" style="background:#1a1a1a;color:#fff;" data-promo-checkout hidden>Checkout &mdash; Buy One Get One Free</button>
+  </section>
 
   <footer class="site-footer">
     <div class="footer-social">
@@ -41,7 +52,6 @@
       <a href="mailto:hello@example.com" aria-label="Contact Me">Contact Me</a>
     </div>
     <p class="footer-copy">&copy; 2026 Annie. All rights reserved.</p>
-    <a href="promo.html" class="footer-promo-link">Have a gift code?</a>
   </footer>
 
   <div class="checkout-modal" id="checkout-modal">
@@ -55,6 +65,6 @@
   <script src="js/config.js"></script>
   <script src="js/checkout.js?v=2"></script>
   <script src="js/promo.js?v=2"></script>
-  <script src="js/main.js?v=3"></script>
+  <script src="js/promo-page.js?v=1"></script>
 </body>
 </html>
