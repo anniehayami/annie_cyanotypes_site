@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Shop &mdash; Annie Cyanotypes</title>
+  <title>Your Cart &mdash; Annie's Cyanotypes</title>
   <link rel="stylesheet" href="css/style.css?v=10" />
 </head>
 <body>
@@ -29,20 +29,13 @@
     </div>
   </header>
 
-  <div class="page-title" data-page-title>
-    <h1>Prints</h1>
-  </div>
-
-  <nav class="shop-filters" data-shop-filters></nav>
-
-  <nav class="shop-sub-breadcrumb breadcrumb" data-shop-breadcrumb style="display:none;"></nav>
-
-  <div class="container">
-    <div class="product-grid" data-product-grid></div>
-    <p class="empty-state" data-empty-state style="display:none;">
-      No prints in this category yet &mdash; check back soon.
-    </p>
-  </div>
+  <section class="section section-narrow cart-page">
+    <h2>Your Cart</h2>
+    <div class="cart-items" data-cart-items></div>
+    <p class="cart-total" data-cart-total hidden></p>
+    <button type="button" class="btn" style="background:#1a1a1a;color:#fff;" data-cart-checkout hidden>Checkout</button>
+    <a href="category.html" class="btn btn-outline">Continue Shopping</a>
+  </section>
 
   <footer class="site-footer">
     <div class="footer-social">
@@ -64,7 +57,6 @@
   <script src="js/config.js"></script>
   <script src="js/checkout.js?v=3"></script>
   <script src="js/cart.js"></script>
-  <script src="js/promo.js?v=2"></script>
-  <script src="js/main.js?v=4"></script>
+  <script src="js/cart-page.js"></script>
 </body>
 </html>

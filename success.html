@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Thank You &mdash; Annie Cyanotypes</title>
-  <link rel="stylesheet" href="css/style.css?v=7" />
+  <link rel="stylesheet" href="css/style.css?v=10" />
 </head>
 <body>
 
@@ -41,6 +41,7 @@
     // This page only loads after a successful Stripe checkout, so it's safe
     // to clear out any pending gift-set selection here.
     localStorage.removeItem('bogoCart');
+    localStorage.removeItem('cart');
   </script>
 </body>
 </html>

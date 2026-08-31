@@ -39,6 +39,10 @@ async function openBogoCheckout(priceIds, code) {
   await mountCheckout('/.netlify/functions/create-bogo-checkout-session', { priceIds, code });
 }
 
+async function openCartCheckout(items) {
+  await mountCheckout('/.netlify/functions/create-cart-checkout-session', { items });
+}
+
 function closeCheckout() {
   const modal = document.getElementById('checkout-modal');
   modal.classList.remove('open');

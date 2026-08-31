@@ -220,7 +220,19 @@ function renderProductDetail(catalog) {
   updateSelectedSize();
 
   buyBtn.addEventListener('click', () => {
-    if (!buyBtn.disabled) openCheckout(buyBtn.dataset.priceId);
+    if (buyBtn.disabled) return;
+    const selected = product.sizes[sizeRadios.findIndex((r) => r.checked)];
+    addToCart({
+      priceId: selected.stripePriceId,
+      id: product.id,
+      title: product.title,
+      sizeName: selected.name,
+      price: selected.price,
+    });
+    buyBtn.textContent = 'Added to Cart ✓';
+    setTimeout(() => {
+      if (!buyBtn.disabled) buyBtn.textContent = 'Add to Cart';
+    }, 1200);
   });
 
   const bogoBtn = root.querySelector('[data-bogo-add]');
