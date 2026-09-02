@@ -616,18 +616,6 @@ a { color: inherit; text-decoration: none; }
   color: var(--muted);
 }
 
-.footer-promo-link {
-  display: block;
-  margin-top: 14px;
-  font-size: 11px;
-  letter-spacing: 0.06em;
-  color: var(--line);
-}
-
-.footer-promo-link:hover {
-  color: var(--muted);
-}
-
 /* Cart */
 .cart-link {
   position: relative;
@@ -694,52 +682,31 @@ a { color: inherit; text-decoration: none; }
   margin: 0 0 20px;
 }
 
-/* Gift set (BOGO promo) */
-.bogo-add-btn {
-  margin-left: 12px;
-  margin-top: 12px;
+/* Gift code (BOGO promo, applied in-cart) */
+.cart-promo {
+  margin: 8px 0 24px;
+  padding: 20px 0;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
 }
 
-@media (max-width: 480px) {
-  .bogo-add-btn {
-    display: block;
-    margin-left: 0;
-  }
-}
-
-.bogo-widget {
-  position: fixed;
-  right: 24px;
-  bottom: 24px;
-  z-index: 50;
-  background: var(--brown);
-  color: #fff;
+.cart-promo label {
+  display: block;
   font-family: var(--sans);
-  font-size: 13px;
-  letter-spacing: 0.02em;
-  padding: 12px 20px;
-  border-radius: 999px;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 10px;
 }
 
-.bogo-widget:hover {
-  opacity: 0.9;
-}
-
-.promo-entry .btn,
-.promo-cart .btn {
-  margin-top: 8px;
-}
-
-.promo-form {
+.promo-form-inline {
   display: flex;
   gap: 12px;
-  justify-content: center;
-  margin-top: 24px;
   flex-wrap: wrap;
 }
 
-.promo-form input {
+.promo-form-inline input {
   font-family: var(--sans);
   font-size: 15px;
   letter-spacing: 0.08em;
@@ -749,10 +716,11 @@ a { color: inherit; text-decoration: none; }
   background: #fff;
   color: var(--ink);
   min-width: 220px;
+  flex: 1;
 }
 
 .promo-message {
-  margin-top: 16px;
+  margin-top: 12px;
   font-size: 14px;
   min-height: 1.2em;
 }
@@ -761,24 +729,8 @@ a { color: inherit; text-decoration: none; }
   color: #b3392c;
 }
 
-.promo-cart-items {
-  margin: 28px 0;
-  text-align: left;
-}
-
-.promo-cart-item {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 16px;
-  padding: 16px 0;
-  border-bottom: 1px solid var(--line);
-}
-
-.promo-cart-item .price {
-  color: var(--muted);
-  font-size: 14px;
-  margin-top: 2px;
+.promo-message-success {
+  color: #2f6f4e;
 }
 
 .promo-remove {

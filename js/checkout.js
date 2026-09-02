@@ -35,12 +35,8 @@ async function openCheckout(priceId) {
   await mountCheckout('/.netlify/functions/create-checkout-session', { priceId });
 }
 
-async function openBogoCheckout(priceIds, code) {
-  await mountCheckout('/.netlify/functions/create-bogo-checkout-session', { priceIds, code });
-}
-
-async function openCartCheckout(items) {
-  await mountCheckout('/.netlify/functions/create-cart-checkout-session', { items });
+async function openCartCheckout(items, promoCode) {
+  await mountCheckout('/.netlify/functions/create-cart-checkout-session', { items, promoCode });
 }
 
 function closeCheckout() {

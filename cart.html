@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Your Cart &mdash; Annie's Cyanotypes</title>
-  <link rel="stylesheet" href="css/style.css?v=10" />
+  <link rel="stylesheet" href="css/style.css?v=11" />
 </head>
 <body>
 
@@ -32,6 +32,16 @@
   <section class="section section-narrow cart-page">
     <h2>Your Cart</h2>
     <div class="cart-items" data-cart-items></div>
+
+    <div class="cart-promo" data-cart-promo hidden>
+      <label for="promo-code-input">Have a gift code?</label>
+      <div class="promo-form-inline">
+        <input type="text" id="promo-code-input" data-promo-input placeholder="Enter code" autocomplete="off" />
+        <button type="button" class="btn btn-outline" data-promo-apply>Apply</button>
+      </div>
+      <p class="promo-message" data-promo-message></p>
+    </div>
+
     <p class="cart-total" data-cart-total hidden></p>
     <button type="button" class="btn" style="background:#1a1a1a;color:#fff;" data-cart-checkout hidden>Checkout</button>
     <a href="category.html" class="btn btn-outline">Continue Shopping</a>
@@ -43,7 +53,6 @@
       <a href="mailto:hello@example.com" aria-label="Contact Me">Contact Me</a>
     </div>
     <p class="footer-copy">&copy; 2026 Annie. All rights reserved.</p>
-    <a href="promo.html" class="footer-promo-link">Have a gift code?</a>
   </footer>
 
   <div class="checkout-modal" id="checkout-modal">
@@ -55,8 +64,8 @@
 
   <script src="https://js.stripe.com/v3/"></script>
   <script src="js/config.js"></script>
-  <script src="js/checkout.js?v=3"></script>
-  <script src="js/cart.js"></script>
-  <script src="js/cart-page.js"></script>
+  <script src="js/checkout.js?v=4"></script>
+  <script src="js/cart.js?v=2"></script>
+  <script src="js/cart-page.js?v=2"></script>
 </body>
 </html>
