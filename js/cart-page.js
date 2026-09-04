@@ -1,9 +1,9 @@
 // Launch promo: with a valid code and at least 2 prints in the cart, the
-// single cheapest print becomes free, for a 48-hour window. Keep these
+// single cheapest print becomes free, from Sept 2 through midnight ET on Sept 7. Keep these
 // three values in sync with netlify/functions/create-cart-checkout-session.js.
 const PROMO_CODE = 'FLOWERSAREBORING';
 const PROMO_STARTS = new Date('2026-09-02T12:00:00Z'); // 8am ET (EDT, UTC-4)
-const PROMO_ENDS = new Date('2026-09-04T12:00:00Z'); // 48 hours later
+const PROMO_ENDS = new Date('2026-09-08T04:00:00Z'); // midnight ET, end of Sept 7
 
 let appliedPromoCode = null;
 
